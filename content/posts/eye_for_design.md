@@ -27,3 +27,10 @@ Illustrator
 
 Developing an eye for the finer details of the design aspects around us and realizing the thought and process behind every element is the main take away from the session.
 
+![workshop](/images/eye_for_design/img3.jpeg)
+
+![workshop](/images/eye_for_design/img1.jpeg)
+
+
+![workshop](/images/eye_for_design/img2.jpeg)
+
