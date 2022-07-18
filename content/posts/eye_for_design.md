@@ -8,6 +8,8 @@ categories: ["workshop"]
 
 As a graphic designer and as a person, Harinarayanan explained that he needed **stimulus** and he used it to fuel his creativity. By drawing lines of similarity between design and cooking, where we combine things, measure proportions and blend them together in order to create something new, he explained how the abundance of stimulus around us can be used positively and in favour of design.
 
+![design laptops](https://images.pexels.com/photos/326502/pexels-photo-326502.jpeg)
+
 There is power in design, from working as a designer in corporate and marketing fields, Harinarayanan talked about how design is about manipulating people into making certain choices and it leaves you with an inflated ego.
 
 Most designers have humble beginnings and the speaker didn't have it any differently. He contrasted between his early works that he started off by using Microsoft Powerpoint ( no shame in that ) and his best works to point out the progress he made. From using oversaturated colours to finding the right colour palette, choosing the right fonts along with giving more care for the layout to highlight and emphasis, there is a lot to be learnt and over time you will develop your own set of unique practices.
