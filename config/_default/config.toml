@@ -1,4 +1,4 @@
-baseURL = 'blog.iedcmec.in'
+baseURL = 'https://IEDCMEC.github.io/iedc-blog/'
 canonifyURLs = true
 
 languageCode = "en"
@@ -27,8 +27,8 @@ localizedDates = false
 
 [params]
     displayMode = "light"
-    disableThemeSwitcher = true
-    contentratio = 0.65
+    disableThemeSwitcher = false
+    contentratio = 0.75
 
 [markup]
     [markup.goldmark]
