@@ -1,0 +1,12 @@
+.nav {
+    position: absolute;
+    display: block;
+    top: -1000px;
+    left: 0;
+    right: 0;
+    transition: top 0.2s ease-out;
+}
+
+.nav--active {
+    top: 45px;
+}
