@@ -5,7 +5,7 @@ Install Hugo by following instructions [here](https://gohugo.io/getting-started/
 
 Then clone this repo along with the submodules
 ```sh
-git clone https://https://github.com/IEDCMEC/iedc-blog.git --recursive
+git clone https://github.com/IEDCMEC/iedc-blog.git --recursive
 ```
 or with ssh
 ```sh
