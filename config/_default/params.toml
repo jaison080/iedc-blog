@@ -9,7 +9,7 @@ favicon = "favicons/"
 customCss = ["css/sidebar.css"]
 # example ["js/custom.js"]
 customJs = []
-mainSections = ["posts"]
+mainSections = ['post']
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -49,7 +49,7 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 ## Math settings
 [math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+enable = false # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links

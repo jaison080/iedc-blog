@@ -5,6 +5,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "IEDC Blog"
 theme = "anatole"
+mainSections = ["post"]
 
 summarylength = 10
 enableEmoji = true
@@ -22,31 +23,37 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 # Localized dates requires Hugo version 0.87.0
-localizedDates = false
-
+localizedDates = true
 
 [params]
-    displayMode = "light"
-    disableThemeSwitcher = false
-    contentratio = 0.75
+displayMode = "light"
+disableThemeSwitcher = false
+contentratio = 0.75
+
+[params.utterances]
+repo = "IEDCMEC/iedc-blog"
+issueTerm = "pathname"
+theme = "github-dark"
+label = "comment"
+
 
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-        unsafe=true
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [taxonomies]
-    category = "categories"
-    series = "series"
-    tag = "tags"
+category = "categories"
+series = "series"
+tag = "tags"
 
 [related]
-  includeNewer = true
-  threshold = 80
-  toLower = true
+includeNewer = true
+threshold = 80
+toLower = true
 [[related.indices]]
-  name = 'keywords'
-  weight = 100
+name = 'keywords'
+weight = 100
 [[related.indices]]
-  name = 'tags'
-  weight = 80
+name = 'tags'
+weight = 80
