@@ -4,7 +4,6 @@ date: 2022-07-16T20:05:35+05:30
 description: "Brief summary regarding Eye of design workshop"
 series: ["workshop"]
 categories: ["workshop"]
-# type: "post"
 ---
 
 As a graphic designer and as a person, Harinarayanan explained that he needed **stimulus** and he used it to fuel his creativity. By drawing lines of similarity between design and cooking, where we combine things, measure proportions and blend them together in order to create something new, he explained how the abundance of stimulus around us can be used positively and in favour of design.

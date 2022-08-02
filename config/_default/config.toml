@@ -33,7 +33,7 @@ contentratio = 0.75
 [params.utterances]
 repo = "IEDCMEC/iedc-blog"
 issueTerm = "pathname"
-theme = "github-dark"
+theme = "preferred-color-scheme"
 label = "comment"
 
 
