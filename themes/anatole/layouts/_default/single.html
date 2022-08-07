@@ -105,6 +105,10 @@
       {{ end }}
     </div>
 
+    <div class="applause-button">
+      {{ partial "applause-button.html" .}}
+    </div>
+
     {{ if and (or (eq .Type "post") (eq .Type .Site.Params.postSectionName)) (ne .Page.Params.disableComments true) }}
       {{- if .Site.DisqusShortname -}}
         <div id="comment">
