@@ -5,11 +5,11 @@ Install Hugo by following instructions [here](https://gohugo.io/getting-started/
 
 Then clone this repo along with the submodules
 ```sh
-git clone https://github.com/IEDCMEC/iedc-blog.git --recursive
+git clone https://github.com/IEDCMEC/iedc-blog.git
 ```
 or with ssh
 ```sh
-git clone git@github.com:IEDCMEC/iedc-blog.git --recursive
+git clone git@github.com:IEDCMEC/iedc-blog.git
 ```
 
 #### Starting dev server
