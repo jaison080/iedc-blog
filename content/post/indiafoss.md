@@ -11,7 +11,7 @@ DisableComments: false
 
 <br>
 <figure>
-<img src="/images/indiafoss/img.jpeg" width="550px" height="auto">
+<img src="/images/indiafoss/img.jpeg" width="550" height="auto">
 <figcaption>Our Team @ IndiaFoss</figcaption>
 </figure>
 <br>
@@ -112,7 +112,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 </figure>
 <br>
 
-*Adithya : That is indeed a very common misconception that people have about FOSS. This conference has helped me see FOSS from a completely different perspective. I understood that FOSS is not just about contributing via code, but rather it is a community of like minded people helping and learning from each other and growing together. It was through attending this conference that I met Andrew from Hoppscotch, who surprisingly is a student , the same age as me, and is the CTO of the company!! I was really inspired by his achievements at such a young age. During this conversation I found out that Hoppscotch( https://hoppscotch.io/careers) was hiring for full time developers. Also during the session by Neha and Shubham from [Keploy](https://www.linkedin.com/company/keploy/), I came to know that they are hiring for Keploy Fellows! This indeed is a great opportunity for the students who attended the conference.*  
+*Adithya : That is indeed a very common misconception that people have about FOSS. This conference has helped me see FOSS from a completely different perspective. I understood that FOSS is not just about contributing via code, but rather it is a community of like minded people helping and learning from each other and growing together. It was through attending this conference that I met Andrew from Hoppscotch, who surprisingly is a student , the same age as me, and is the CTO of the company!! I was really inspired by his achievements at such a young age. During this conversation I found out that [Hoppscotch](https://hoppscotch.io/careers) was hiring for full time developers. Also during the session by Neha and Shubham from [Keploy](https://www.linkedin.com/company/keploy/), I came to know that they are hiring for Keploy Fellows! This indeed is a great opportunity for the students who attended the conference.*  
 
 *Sree : Anand and Kailash encouraged the participants to come forward to implement and volunteer for executing their ideas for making FOSS events and conferences better for the future. Rushab (Chairperson Foss United) then talked about the work           Vishal (Community Engagement Head) who is currently working full time as an advocate of Foss United, has put in for evangelizing FOSS throughout the country, giving talk sessions, and motivating enthusiastic minds to step into FOSS. The effort and dedication Vishal and all the volunteers have put into the development of FOSS in the country and the successful conduction of IndiaFOSS is really amazing.*
 
