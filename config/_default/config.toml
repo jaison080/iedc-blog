@@ -29,6 +29,7 @@ localizedDates = true
 displayMode = "light"
 disableThemeSwitcher = false
 contentratio = 0.75
+rssFullContent = true
 
 [params.utterances]
 repo = "IEDCMEC/iedc-blog"
@@ -57,3 +58,9 @@ weight = 100
 [[related.indices]]
 name = 'tags'
 weight = 80
+
+[outputs]
+home = ["HTML"]
+section = ["HTML", "RSS"]
+taxonomy = ["HTML"]
+term = ["HTML"]
