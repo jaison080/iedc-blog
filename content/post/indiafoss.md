@@ -11,7 +11,7 @@ DisableComments: false
 
 <br>
 <figure>
-<img src="/images/indiafoss/img.jpeg" width="45%" height="auto">
+<img src="/images/indiafoss/img.jpeg" width="550px" height="auto">
 <figcaption>Our Team @ IndiaFoss</figcaption>
 </figure>
 <br>
@@ -24,7 +24,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img2.jpeg" width="45%" height="auto">
+<img src="/images/indiafoss/img2.jpeg" width="550" height="auto">
 <figcaption>Andrews talk on the Hoppscotch Manifesto</figcaption>
 </figure>
 <br>
@@ -35,7 +35,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img3.jpeg" width="45%" height="auto">
+<img src="/images/indiafoss/img3.jpeg" width="550" height="auto">
 <figcaption>Talk on use of GIS in rural road development by Harsh</figcaption>
 </figure>
 <br>
@@ -46,7 +46,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img4.jpeg" width="45%" height="auto">
+<img src="/images/indiafoss/img4.jpeg" width="550" height="auto">
 <figcaption>Liberated Hardware display by Deeproot GNU/Linux</figcaption>
 </figure>
 <br>
@@ -55,7 +55,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img5.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img5.jpeg" width="550" height="auto">
 <figcaption>Open space discussions going on….</figcaption>
 </figure>
 <br>
@@ -66,7 +66,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img6.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img6.jpeg" width="550" height="auto">
 <figcaption>Sooraj's Talk on Building an OSS Postgres GUI with Typescript</figcaption>
 </figure>
 <br>
@@ -75,7 +75,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img7.jpg" width="35%" height="auto">
+<img src="/images/indiafoss/img7.jpg" width="550" height="auto">
 <figcaption>Meeting Kailash Nadh (Zerodha CTO)</figcaption>
 </figure>
 <br>
@@ -84,7 +84,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img1.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img1.jpeg" width="550" height="auto">
 <figcaption>A click with some of the MEC students</figcaption>
 </figure>
 <br>
@@ -97,7 +97,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img8.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img8.jpeg" width="550" height="auto">
 <figcaption>The panel discussion that concluded the event</figcaption>
 </figure>
 <br>
@@ -107,7 +107,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img9.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img9.jpeg" width="550" height="auto">
 <figcaption></figcaption>
 </figure>
 <br>
@@ -126,7 +126,7 @@ Our experience at IndiaFOSS 2.0 was unforgettable. We -  a team of six consistin
 
 <br>
 <figure>
-<img src="/images/indiafoss/img10.jpeg" width="55%" height="auto">
+<img src="/images/indiafoss/img10.jpeg" width="550" height="auto">
 <figcaption>Final Group Pic</figcaption>
 </figure>
 <br>
