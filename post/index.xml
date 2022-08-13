@@ -1,1 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on IEDC Blog</title><link>https://blog.iedcmec.in/post/</link><description>Recent content in Posts on IEDC Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jul 2022 22:26:10 +0530</lastBuildDate><atom:link href="https://blog.iedcmec.in/post/index.xml" rel="self" type="application/rss+xml"/><item><title>An IndiaFOSS Story</title><link>https://blog.iedcmec.in/post/indiafoss/</link><pubDate>Sat, 13 Aug 2022 15:23:44 +0530</pubDate><guid>https://blog.iedcmec.in/post/indiafoss/</guid><description>IndiaFOSS is a yearly conference conducted by the FOSS United community with a goal to bring software developers, policy makers, communities and enthusiasts together, so that they can learn and inspire each other.</description></item><item><title>Eye for design</title><link>https://blog.iedcmec.in/post/eye_for_design/</link><pubDate>Sat, 16 Jul 2022 20:05:35 +0530</pubDate><guid>https://blog.iedcmec.in/post/eye_for_design/</guid><description>Brief summary regarding Eye of design workshop</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on IEDC Blog</title><link>https://blog.iedcmec.in/post/</link><description>Recent content in Posts on IEDC Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jul 2022 22:26:10 +0530</lastBuildDate><atom:link href="https://blog.iedcmec.in/post/index.xml" rel="self" type="application/rss+xml"/><item><title>An IndiaFOSS Story</title><link>https://blog.iedcmec.in/post/indiafoss/</link><pubDate>Sat, 13 Aug 2022 15:23:44 +0530</pubDate><guid>https://blog.iedcmec.in/post/indiafoss/</guid><description>&lt;p>&lt;a href="https://indiafoss.net/">IndiaFOSS&lt;/a> is a yearly conference conducted by the &lt;a href="https://www.linkedin.com/company/fossunited/">FOSS United&lt;/a> community with a goal to bring software developers, policy makers, communities and enthusiasts together, so that they can learn and inspire each other.&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img.jpeg" width="45%" height="auto">
+&lt;figcaption>Our Team @ IndiaFoss&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>Our experience at IndiaFOSS 2.0 was unforgettable. We - a team of six consisting of &lt;a href="https://www.linkedin.com/in/adithyaanilkumar/">Adithya&lt;/a> , &lt;a href="https://www.linkedin.com/in/aldrinjenson/">Aldrin&lt;/a> , &lt;a href="https://www.linkedin.com/in/nayana-vinod/">Nayana&lt;/a> , &lt;a href="https://www.linkedin.com/in/nikita-menon-b2248079/">Nikita&lt;/a> , &lt;a href="https://www.linkedin.com/in/pranav-h-nair-b68b21190/">Pranav&lt;/a> and &lt;a href="https://www.linkedin.com/in/sreehari369/">Sreehari&lt;/a> represented IEDC MEC as community partners for IndiaFoss. Through this short write-up made up of a conversation between two friends we will try to sum it all up!!&lt;/p>
+&lt;p>&lt;em>Sree : Damn, I can&amp;rsquo;t believe our three days in Bangalore are already over, what a weekend that was. We’ve got a long train ride back now….Did you get the IndiaFOSS T-Shirts they were giving away at the end? I think I got the last one!&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : Oh man, I think I missed out on the T-Shirts :/, but the last two days were such a blast. This is by far one of the most fruitful events that I have attended this year. The speaker sessions were really informative and eye-opening even though I couldn&amp;rsquo;t attend all of them. Which all talk sessions did you like the most at the conference?&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img2.jpeg" width="45%" height="auto">
+&lt;figcaption>Andrews talk on the Hoppscotch Manifesto&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Sree : That&amp;rsquo;s a long list to be honest! I loved &lt;a href="https://www.linkedin.com/in/andrew-bastin-7456771a8/">Andrew&amp;rsquo;s&lt;/a> talk on the Hoppscotch manifesto, which was like a mini stand up on its own xD, I missed out on some nice speakers due to the split between the two auditoriums…which all talks were you able to attend?&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : I agree, it was kind of difficult to choose between the two venues as both of them had equally good topics. I wanted to attend both simultaneously. The first talk that I attended was on &lt;a href="https://www.qgis.org/en/site/">GIS&lt;/a> and how it was used to plan rural roads by &lt;a href="https://www.linkedin.com/in/harsh-nisar-b8347588/">Harsh Nisar&lt;/a> , lead data scientist at the Ministry of Rural Development. This particular talk was of real interest to me as I had worked on a project using the same technology. He gave an overview of how he was able to use &lt;a href="https://www.qgis.org/en/site/">QGIS&lt;/a> algorithms and Trace Maps to build rural road infrastructure.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img3.jpeg" width="45%" height="auto">
+&lt;figcaption>Talk on use of GIS in rural road development by Harsh&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Sree : I met with Harsh later during the conference , it was pretty cool of his team to make their vast database open to all to use , he told me they decided to make it open source because the value of their research in making their &lt;a href="https://geosadak-pmgsy.nic.in/opendata/">database&lt;/a> was too good to just be spent on their project and everyone should have an opportunity to work on it. The networking sessions were really good, if not for which we would have missed out on meeting awesome people like Harsh.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : I know right! It was during the breaks that I was able to interact with volunteers from Zerodha. That&amp;rsquo;s when I met Joe, and we talked about how important events like these are for the developer community. The funny thing is that , during the conversation I got to know that he was an X-Mecian ( graduate from Model Engineering College ) and we had connected on LinkedIn a few days ago. He also shared his inspiring journey with open source and how that helped him to land a job at Zerodha as a developer. I also met Joice, from Zerodha, who was also a contributor to Swathanthra Malayalam Computing foundation( Maintainers of Indic Keyboard ). We talked about bringing more awareness to the SMC community. Both of them were really interested to spread the word about open source and agreed to take sessions for students regarding the same.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img4.jpeg" width="45%" height="auto">
+&lt;figcaption>Liberated Hardware display by Deeproot GNU/Linux&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Sree : They seem cool! Btw, remember the hardware display section with all those liberated routers , laptops , new 3d printer technology and custom made keyboards!!! The company behind it was ‘DeepRoot GNU/Linux&amp;rsquo; . Their founder &lt;a href="https://www.linkedin.com/in/abhas-abhinav/">Abhas&lt;/a> believes that the best way to recommend and promote free / open source software is by building affordable solutions and backing them up with commercial and comprehensive support. There were some open spaces near the hardware display where some people gathered and sat together to discuss different tech subjects. Once when I passed by the place I heard some heated discussions about Rust going on xD.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img5.jpeg" width="55%" height="auto">
+&lt;figcaption>Open space discussions going on….&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Adithya : Lol, the open spaces were actually a unique concept that I haven&amp;rsquo;t seen anywhere before. The best part of the conference was indeed meeting new people and networking. I remember having an hour long conversation with &lt;a href="https://www.linkedin.com/in/r--aravind/">Aravind&lt;/a> from &lt;a href="http://linkedin.com/company/juspay-technologies/">Juspay&lt;/a> about System Architecture. The conversation was really insightful as he talked about how he architects systems in such a way that it does not go into the faulty state while considering all aspects of the business logic are met. We also talked about how important it was to teach college and school students about development and how the current education system turns a blind eye to practical learning. He was really interested to solve this problem and to meet and interact with the student community and accepted our invitation to come and share his knowledge with the students of MEC.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Sree : Oh, I had met some people from Juspay too. When their team came around to check on the community partners I was able to connect with them and explain about IEDC and its activities. It was a fun experience standing in our stall. A lot of interesting people came around to check out what IEDC was, it was really nice talking to them and was a fun way to network as well.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img6.jpeg" width="55%" height="auto">
+&lt;figcaption>Sooraj's Talk on Building an OSS Postgres GUI with Typescript&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Adithya: True, it was really fun to meet people. I enjoyed networking so much that I actually spent more time talking to people than attending sessions!! The sponsor stalls were really nice too and everyone there were really friendly and approachable. It was at one of these stalls setup by Hasura that I met &lt;a href="https://www.linkedin.com/in/soorajsanker/">Sooraj&lt;/a>, who was a Senior Software Engineer there.We talked about Hasura’s future goals and how they were looking into expanding their product to allow users to connect any type of database to their platform. Midway through the conversation I found out that Sooraj was also a fellow Malayali . We also talked about how &lt;a href="https://hasura.io/">Hasura&lt;/a> could help in quick building of MVP’s for startups and also help students quickly turn their ideas into products. After this is when I saw that Kailash was interacting with participants and I knew that we had to seize the opportunity, so that&amp;rsquo;s when I called you to talk to him.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img7.jpg" width="35%" height="auto">
+&lt;figcaption>Meeting Kailash Nadh (Zerodha CTO)&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Sree : Meeting &lt;a href="https://www.linkedin.com/in/kailashnadh/">Kailash&lt;/a> ( CTO of &lt;a href="https://www.linkedin.com/company/zerodha/">Zerodha&lt;/a> ) was without doubt one of the highlights of our conference experience , we just randomly approached him after tea on day one but he was so cool with us. I never expected that he too was a malayali, knowing that he hailed from Kozhikode took me by surprise. His commitment to developing open source software and efforts in evangelizing the community is really awesome! The way he talked about team management , his work ethics and how his small team of less than 40 members are behind all technical operations at Zerodha blew me away. I guess he also was fascinated seeing the 75+ students ( which would have been 70 more if it wasn&amp;rsquo;t for our college management! ) who turned up from MEC to participate in IndiaFOSS that he promised to come with his team to Kochi, as well as MEC to meet all the FOSS enthusiasts here.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img1.jpeg" width="55%" height="auto">
+&lt;figcaption>A click with some of the MEC students&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Adithya: That was the cherry on top! I remember his excitement on hearing us telling him how we got these many students to participate in the conference. The most fulfilling part for me was seeing over 75 students from our college come for the conference. It felt like going to each class in our college and explaining to our juniors about FOSS, the conference and telling them about the benefits of such events, finally paid off. I&amp;rsquo;m really excited to plan the FOSS United meetup at Kochi. I hope we can hold to the standards that the IndiaFOSS organizing team has set with IndiaFOSS 2.0.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Sree : Did you attend the panel discussion at the end of the conference ?&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : No, I was talking to our juniors from MEC during that time. They were all gathered around our IEDC MEC stall and I was telling them about the power of networking and how the programs like Pre-incubation at IEDC MEC can help them utilize this. How did the panel discussion go?&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img8.jpeg" width="55%" height="auto">
+&lt;figcaption>The panel discussion that concluded the event&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Sree: The discussion was a really nice way to wrap up IndiaFOSS. Kailash, Anand, &lt;a href="https://www.linkedin.com/in/rushabhmehta1/">Rushabh&lt;/a> , and &lt;a href="https://www.linkedin.com/in/wisharya/">Vishal&lt;/a> were all present throughout the discussion on the stage. I enjoyed how everyone present was given a chance to come forward and speak about their takeaways from the conference and what they look forward to in the coming years from the FOSS community. Participants, Volunteers, and Speakers of the conference all enthusiastically gave their opinions about topics like methods to evangelize FOSS, increasing the involvement of women in FOSS, and ensuring more women participation in the next edition, Vishal added that the open source domain was not exclusive to coders/developers and rather anyone with the desire and skill could contribute to the same.&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img9.jpeg" width="55%" height="auto">
+&lt;figcaption>&lt;/figcaption>
+&lt;/figure>
+&lt;br>
+&lt;p>&lt;em>Adithya : That is indeed a very common misconception that people have about FOSS. This conference has helped me see FOSS from a completely different perspective. I understood that FOSS is not just about contributing via code, but rather it is a community of like minded people helping and learning from each other and growing together. It was through attending this conference that I met Andrew from Hoppscotch, who surprisingly is a student , the same age as me, and is the CTO of the company!! I was really inspired by his achievements at such a young age. During this conversation I found out that Hoppscotch( &lt;a href="https://hoppscotch.io/careers">https://hoppscotch.io/careers&lt;/a>) was hiring for full time developers. Also during the session by Neha and Shubham from &lt;a href="https://www.linkedin.com/company/keploy/">Keploy&lt;/a>, I came to know that they are hiring for Keploy Fellows! This indeed is a great opportunity for the students who attended the conference.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Sree : Anand and Kailash encouraged the participants to come forward to implement and volunteer for executing their ideas for making FOSS events and conferences better for the future. Rushab (Chairperson Foss United) then talked about the work Vishal (Community Engagement Head) who is currently working full time as an advocate of Foss United, has put in for evangelizing FOSS throughout the country, giving talk sessions, and motivating enthusiastic minds to step into FOSS. The effort and dedication Vishal and all the volunteers have put into the development of FOSS in the country and the successful conduction of IndiaFOSS is really amazing.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : Ya man. I am definitely going to miss the unlimited gulab jamuns, ice cream and the paneer. But I guess the thing that I&amp;rsquo;m going to miss the most is the people whom we met during the conference and all the fun we had. It was indeed really well organized and we did learn a lot from this one single event. I hope that one day we will be able to conduct such an event that could give back to the community.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Sree : We have events like Pycon and FossKochi coming up , We will be sure to rock them. Also,Vivek had suggested writing a blog about our IndiaFOSS experiences.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Adithya : We definitely should xD. (Train goes Chook Chook) Ohh wow, it&amp;rsquo;s already 3 am . We should probably go get some sleep as we will reach Kochi at 7 in the morning.&lt;/em>&lt;/p>
+&lt;p>&lt;em>Sree: Good night!&lt;/em>&lt;/p>
+&lt;br>
+&lt;figure>
+&lt;img src="https://blog.iedcmec.in/images/indiafoss/img10.jpeg" width="55%" height="auto">
+&lt;figcaption>Final Group Pic&lt;/figcaption>
+&lt;/figure>
+&lt;br></description></item><item><title>Eye for design</title><link>https://blog.iedcmec.in/post/eye_for_design/</link><pubDate>Sat, 16 Jul 2022 20:05:35 +0530</pubDate><guid>https://blog.iedcmec.in/post/eye_for_design/</guid><description>&lt;p>As a graphic designer and as a person, Harinarayanan explained that he needed &lt;strong>stimulus&lt;/strong> and he used it to fuel his creativity. By drawing lines of similarity between design and cooking, where we combine things, measure proportions and blend them together in order to create something new, he explained how the abundance of stimulus around us can be used positively and in favour of design.&lt;/p>
+&lt;p>&lt;img src="https://images.pexels.com/photos/326502/pexels-photo-326502.jpeg" alt="design laptops">&lt;/p>
+&lt;p>There is power in design, from working as a designer in corporate and marketing fields, Harinarayanan talked about how design is about manipulating people into making certain choices and it leaves you with an inflated ego.&lt;/p>
+&lt;p>Most designers have humble beginnings and the speaker didn&amp;rsquo;t have it any differently. He contrasted between his early works that he started off by using Microsoft Powerpoint ( no shame in that ) and his best works to point out the progress he made. From using oversaturated colours to finding the right colour palette, choosing the right fonts along with giving more care for the layout to highlight and emphasis, there is a lot to be learnt and over time you will develop your own set of unique practices.&lt;/p>
+&lt;p>To make the best use of your skills and creativity, you need the right tools. There is a lot of tools out there but these are the most used and essential :&lt;/p>
+&lt;ol>
+&lt;li>Canva - As much as you love making things from scratch, there are times when you just need to get the work done efficiently and at the same time deliver high quality designs without much effort. Using Canva and the wide range of features it has like templates, basic editing and illustrations, you can make sure you are consistently creating and publishing your best work.&lt;/li>
+&lt;li>Photoshop - One of the best design tools out there. The learning curve might be slow and hard to progress through in terms of the UI and the abundance of tools that are available, but once mastered, you won’t need anything else.&lt;/li>
+&lt;li>Figma - It is useful for working with teams and making integrated designs like carousels for instagram, UI/UX, colour themed posters, etc. The UI is more simple and easier to understand, but not any less powerful.&lt;/li>
+&lt;li>Blender - It is the best tool for 3d digital art and rendering. With the rise in value and popularity of NFTs, Blender has become one of the leading 3D design tools.&lt;/li>
+&lt;/ol>
+&lt;p>Other Design tools mentioned : (ppt slide) &lt;br>
+Procreate &lt;br>
+Final Cut pro &lt;br>
+Illustrator&lt;/p>
+&lt;p>Developing an eye for the finer details of the design aspects around us and realizing the thought and process behind every element is the main take away from the session.&lt;/p>
+&lt;p>&lt;img src="https://blog.iedcmec.in/images/eye_for_design/img3.jpeg" alt="workshop">&lt;/p>
+&lt;p>&lt;img src="https://blog.iedcmec.in/images/eye_for_design/img1.jpeg" alt="workshop">&lt;/p>
+&lt;p>&lt;img src="https://blog.iedcmec.in/images/eye_for_design/img2.jpeg" alt="workshop">&lt;/p></description></item></channel></rss>
