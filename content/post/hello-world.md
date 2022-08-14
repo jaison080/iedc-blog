@@ -11,7 +11,7 @@ authors:
     website: "https://www.linkedin.com/in/aldrinjenson/"
 ---
 
-Behind the scenes view into the making of IEDCMEC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.
+Behind the scenes view into the making of IEDCMEC blog project by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management and the technical aspect of how this blog is made.
 
 ## Introduction
 
