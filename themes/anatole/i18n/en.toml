@@ -22,7 +22,7 @@ other = "Sorry, this page does not exist."
 other = "You can head back to <a href=\"{{ . }}\">homepage</a>."
 
 [comments]
-other = "comments"
+other = "Comments"
 
 [send]
 other = "Send"
