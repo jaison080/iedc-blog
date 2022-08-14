@@ -5,17 +5,21 @@ Description: "Reflections on the technical and non-technical aspects of the blog
 Tags: ["tech-team", "behind-the-scenes", "project"]
 Categories: []
 DisableComments: false
+authors:
+  - name: "Aldrin Jenson"
+    about: "CTO of IEDC MEC"
+    website: "https://www.linkedin.com/in/aldrinjenson/"
 ---
 
-Behind the scenes view into the making of IEDC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.
+Behind the scenes view into the making of IEDCMEC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.
 
 ## Introduction
 
-The IEDC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.
+The IEDCMEC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.
 
 ## Why we built the blog
 
-A blog is a great medium to showcase the thoughts and literary works of the members of an organization of community and the blog idea was something I held very close to my heart. Every great organization had a blog site - be it technical or non-technical.
+A blog is a great medium to showcase the thoughts and literary works of the members of an organization of community and hence the blog idea was something I held very close to my heart. Every great organization had a blog site - be it technical or non-technical.
 
 While most clubs or communities usually depend upon blogging platforms like Medium, Blogger, Blogspot etc, IEDC MEC, with it's awesome tech team (More on the IEDC teams in a later blog maybe) and a firm follower of FOSS technologies, decided to have the blog platform built in-house by our students ✨.
 
@@ -86,7 +90,7 @@ So far the blog team consists of 7 members with the team headed by [Amal Dev](ma
 
 We had 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)
 
-You can see all the team members here.
+You can see all the team members [here](https://github.com/orgs/IEDCMEC/teams/blog-team/members).
 
 Special mention goes to Jason Dennis and Gokulnath whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And, boy was I happy!
 
@@ -131,10 +135,6 @@ We now have plans to conduct this workshop at a larger scale and open it up to a
 
 We are also thinking of conducting a workshop on writing with Markdown. The awesome syntax which you might have seen in github readMe or github editor is how each article in the blog is written. Right now, as it's the starting phase, it's good old Amal Dev converting the article in Google Doc to Markdown. We want to change that by introducing Markdown syntax and various Markdown based editors to increase the productivity of budding writers in MEC✨.
 
-<!-- ## Conclusions and personal Afterthoughts
-
-Right now, the blog is set and each member of the team has worked on some feature to make the whole thing great. Plannings for the future sessions have also been going well. Since the blog is pretty stable rn, the members of blog team can easily take up any other projects of the tech team. -->
-
 ## Personal challenges, learnings and afterthoughts
 
 For me personally, this whole endeavour was heartwarming while being stressful at the same time. We managed to pull off the whole blog - right from the planning, training, developing and deployment all within one month and that too in between series and Semester exams!
@@ -142,8 +142,6 @@ For me personally, this whole endeavour was heartwarming while being stressful a
 While I have led technical teams before, never before did I face such a challenge of managing multiple projects running parallelly(MEC Collab coming soon✨) than in this CTO role at IEDC. In between I had to go to Bangalore, meet personal commitments, do my Mom's e-Filing(boy, the time this can take...)
 
 The project taught me that you can't make something great by just telling people to do it. If a project has to be successful, you'd have to put in sufficient efforts from your part. It may not always be easy, but the satisfaction you get at the end is worth it. ✨
-
-<!-- fix this -->
 
 I've been fortunate enough to study in MEC where I've seen a lot of talented folks. I've known developers who could read about Hugo and replicate a whole blog like this a few days.
 But what I'm proud of right now is the workflow the blog team have set up - No dependence on any single person. Like clockwork (cue Razeen), we now have a system seen set up to handle new blog articles to be published, or new features to be developed.
