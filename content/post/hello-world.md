@@ -7,7 +7,7 @@ Categories: []
 DisableComments: false
 authors:
   - name: "Aldrin Jenson"
-    about: "CTO of IEDC MEC"
+    about: "CSB, MEC'23 | CTO of IEDC MEC"
     website: "https://www.linkedin.com/in/aldrinjenson/"
 ---
 
@@ -61,9 +61,9 @@ Once the framework was decided, next step was setting up the team and providing 
 
 ### The Training
 
-Almost everyone in the team hadn't heard about Hugo before or didn't even know why use a framework for a blog. So the initial part of the challenge was organizing a training session to get them up to speed.
+None of the team members had heard about Hugo before or most folks didn't initially even have much idea about why use a framework for a blog at all. So the initial part of the challenge was organizing a training session to get them up to speed.
 
-A great help to me in this mission this was [Allen Phillipose](https://github.com/alanphil2k01). He had had some experience with [goLang](https://go.dev/) before and when I proposed to him the idea of a blog framework written in Go(Hu**Go**), he was ready to jump in.
+A great help to me in this task this was [Allen Phillipose](https://github.com/alanphil2k01). He had had some experience with [GoLang](https://go.dev/) before and when I proposed to him the idea of a blog framework written in Go(Hu**Go**), he was ready to jump in.
 
 I sent him Hugo docs and my own [personal blog](https://aldrinjenson.me/) I had made earlier where I had a [post](https://aldrinjenson.me/posts/hosting-hugo-sites-on-gh-pages/) about hosting Hugo with gh-pages as an example.
 He found Hugo very interesting and within two weeks, showed me a sample blog he made.
@@ -86,7 +86,7 @@ I put up a message in the IEDC Tech team Whatsapp group, inviting those interest
 
 ### The team
 
-So far the blog team consists of 7 members with the team headed by [Amal Dev](mailtoamaldevcd@gmail.com) and Alan.
+So far the blog team consists of 7 members with the team headed by [Amal Dev](https://github.com/amaldevcd) and Alan.
 
 We had 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)
 
@@ -125,7 +125,7 @@ Finally it was shared to the IEDC Execom for suggestions and feedback.
 
 Boy, we followed Agile. Yes [Razeen](https://www.linkedin.com/in/muhammed-razeen-298815190) (IEDC CEO), you should be proud😁.
 
-Right now the blog is in a state where majority of the suggestions has been addressed and there are a few features on which the blog team members are still working on as I'm writing this.
+Right now the blog is in a state where majority of the suggestions have been addressed and there are a few features on which the blog team members are still working on as I'm writing this.
 
 ## Future plans
 
@@ -144,7 +144,7 @@ While I have led technical teams before, never before did I face such a challeng
 The project taught me that you can't make something great by just telling people to do it. If a project has to be successful, you'd have to put in sufficient efforts from your part. It may not always be easy, but the satisfaction you get at the end is worth it. ✨
 
 I've been fortunate enough to study in MEC where I've seen a lot of talented folks. I've known developers who could read about Hugo and replicate a whole blog like this a few days.
-But what I'm proud of right now is the workflow the blog team have set up - No dependence on any single person. Like clockwork (cue Razeen), we now have a system seen set up to handle new blog articles to be published, or new features to be developed.
+But what I'm proud of right now is the workflow the blog team have set up - No dependence on any single person. Like clockwork (cue Razeen), we now have a system set up to handle new blog articles to be published, or new features to be developed.
 
 Like Napolean Said:
 
@@ -158,7 +158,7 @@ P.S. His answer not exactly like this, but what struck my mind was something alo
 
 With placements looming overhead, other IEDC projects running parallally, personal commitments and exam pressure, this whole processes of talking up initiative for the Blog project which involves talking to team members, clearing doubts, setting up workflows and a large number of other small small actions were really challenging.
 
-If it wasn't for the constant support of Adithya(Adi) and the dear tech subhead Lisa VC, I'd have probably burned out earlier. But, with the blog being launched and the with really great positive feedback received, I have to say, there's quite the joy in seeing the team you've brought together and trained, doing something great(Razeen and Adi, if you're reading this, now I know how you guys feel🙂). It fills you with pride and makes your eyes glow with optimism for the future possibilities.
+If it wasn't for the constant support of Adithya(Adi) and the dear tech subhead Lisa VC, I'd have probably burnt out earlier. But, with the blog being launched and the with really great positive feedback received, I have to say, there's quite the joy in seeing the team you've brought together and trained, doing something great(Razeen and Adi, if you're reading this, now I know how you guys feel🙂). It fills you with pride and makes your eyes glow with optimism for the future possibilities.
 
 Kudos to the tech team. 🥂
 
