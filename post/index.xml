@@ -86,9 +86,9 @@
 &lt;img src="https://blog.iedcmec.in/images/indiafoss/img10.jpeg" width="550" height="auto">
 &lt;figcaption>Final Group Pic&lt;/figcaption>
 &lt;/figure>
-&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog project by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management and the technical aspect of how this blog is made.&lt;/p>
+&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.&lt;/p>
 &lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>The IEDCMEC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
+&lt;p>The IEDCMEC Blog platform in which you are reading this article right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
 &lt;h2 id="why-we-built-the-blog">Why we built the blog&lt;/h2>
 &lt;p>A blog is a great medium to showcase the thoughts and literary works of the members of an organization of community and hence the blog idea was something I held very close to my heart. Every great organization had a blog site - be it technical or non-technical.&lt;/p>
 &lt;p>While most clubs or communities usually depend upon blogging platforms like Medium, Blogger, Blogspot etc, IEDC MEC, with it&amp;rsquo;s awesome tech team (More on the IEDC teams in a later blog maybe) and a firm follower of FOSS technologies, decided to have the blog platform built in-house by our students ✨.&lt;/p>
@@ -134,20 +134,21 @@ He found Hugo very interesting and within two weeks, showed me a sample blog he 
 &lt;p>I put up a message in the IEDC Tech team Whatsapp group, inviting those interested in CSS works to join in and 6 folks signed up pretty soon. (Pretty sure we could&amp;rsquo;ve got even more members if it wasn&amp;rsquo;t for the exams coming soon, but the small number turned out to be favorable as recruiting many without ensuring that there were enough tasks for everyone to try out may not have been a great idea.&lt;/p>
 &lt;h3 id="the-team">The team&lt;/h3>
 &lt;p>So far the blog team consists of 7 members with the team headed by &lt;a href="https://github.com/amaldevcd">Amal Dev&lt;/a> and Alan.&lt;/p>
-&lt;p>We had 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)&lt;/p>
-&lt;p>You can see all the team members &lt;a href="https://github.com/orgs/IEDCMEC/teams/blog-team/members">here&lt;/a>.&lt;/p>
-&lt;p>Special mention goes to Jason Dennis and Gokulnath whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And, boy was I happy!&lt;/p>
-&lt;h3 id="then">Then&lt;/h3>
+&lt;p>We have 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)&lt;/p>
+&lt;p>Special mention goes to &lt;a href="https://github.com/jaison080/">Jason Dennis&lt;/a> and &lt;a href="https://github.com/gokz1119/">Gokulnath&lt;/a> whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And boy, was I happy!&lt;/p>
+&lt;p>You can check out our blog repository &lt;a href="https://github.com/IEDCMEC/iedc-blog">here&lt;/a> to discover the team members.
+P.S. We&amp;rsquo;re open to contributions as well :)&lt;/p>
+&lt;h3 id="next-step">Next Step&lt;/h3>
 &lt;p>Once the team was formed, I made up my mind to ensure that everyone who signed up should be getting atleast one chance to work on the blog. If they were interested and ready, we could find some more tasks for them.&lt;/p>
-&lt;p>The base version of blog was shown to a few folks outside the blog team and an initial set of feedback was received. Based on this, Alan made a bit more base customizations like adding the dark theme(much requested, yes) feature. (Hey, does Medium have a dark mode? No, only SEO features? okay. Cool)(Sorry, I don&amp;rsquo;t like Medium and it&amp;rsquo;s full propreitariness; can&amp;rsquo;t help taking a dig at it🙈).&lt;/p>
+&lt;p>The base version of blog was shown to a few folks outside the blog team and an initial set of feedback was received. Based on this, Alan made a bit more base customizations like adding the dark theme(much requested, yes) feature. (Hey, does Medium have a dark mode? No, only SEO features? okay. Cool)(Sorry, I &lt;a href="ttps://news.ycombinator.com/item?id=20115037">don&amp;rsquo;t like&lt;/a> Medium; can&amp;rsquo;t help taking a dig at it🙈).&lt;/p>
 &lt;p>Some challenges I faced at this stage was:&lt;/p>
 &lt;ol>
 &lt;li>How to divide and assign features to a team effectively while ensuring that none gets overworked but gets something cool and interesting to try out&lt;/li>
 &lt;li>How to follow up and manage the tasks efficiently.&lt;/li>
 &lt;/ol>
-&lt;p>Amal Dev from Tech Core team had shown interest to help out with the project, even though this was his first time in a managerial kinda role. With short time, we worked up an arrangement between us and tasks were being assigned in an okayish manner.&lt;/p>
+&lt;p>Amal Dev from Tech Core team had shown interest to help out with the project, even though this was his first time in a managerial kinda role. With short time, we worked up an arrangement between us and tasks were being assigned in an okay manner.&lt;/p>
 &lt;p>One thing I took great care was that everyone who worked on the blog got sufficient help and mentorship when and if they got stuck with the development works. This wasn&amp;rsquo;t easy as those who could mentor for the blog were just Alan and me.
-But again, our team was great and we pulled off all the features successfully.&lt;/p>
+But again, our team was great and we pulled off implementing features successfully.&lt;/p>
 &lt;h2 id="regarding-deployment">Regarding deployment&lt;/h2>
 &lt;p>The blog is deployed via &lt;code>github pages&lt;/code>. We&amp;rsquo;ve set up a &lt;strong>github action&lt;/strong> which runs each time a new Pull Request is merged to main branch to have the blog built to a &lt;code>gh-pages&lt;/code> branch which automatically gets deployed.&lt;/p>
 &lt;p>I&amp;rsquo;ve added a CNAME record and have it configured in our registrar godaddy.com to have the github pages url point to blog.iedcmec.in (P.S. Thank you &lt;a href="https://www.linkedin.com/in/adithyaanilkumar">Aadi&lt;/a>(IEDC MEC COO) for clearing out the doubt I had with A-records)&lt;/p>
@@ -170,7 +171,7 @@ But what I&amp;rsquo;m proud of right now is the workflow the blog team have set
 &lt;p>Like Napolean Said:&lt;/p>
 &lt;blockquote>
 &lt;p>If you want to go fast, go alone.&lt;/p>
-&lt;p>If you want to go far go together&lt;/p>
+&lt;p>If you want to go far, go together&lt;/p>
 &lt;/blockquote>
 &lt;p>Reminds me of an answer by &lt;a href="http://nadh.in/">Kailash Nadh&lt;/a>(CTO of Zerodha) when I asked him during IndiaFoss (read about IndiaFoss and IEDC &lt;a href="https://blog.iedcmec.in/post/indiafoss/">here&lt;/a>), his thoughts on the challenges of being in a technical leadership position, his answer was something along this: &amp;ldquo;Being in a technical leadership position is 90% about things other than writing code. Deal with the boring parts as well to be a great technical leader. Be diligent and curious.&amp;rdquo; ✨&lt;/p>
 &lt;p>P.S. His answer not exactly like this, but what struck my mind was something along these lines. Don&amp;rsquo;t quote me please.&lt;/p>
