@@ -86,7 +86,7 @@
 &lt;img src="https://blog.iedcmec.in/images/indiafoss/img10.jpeg" width="550" height="auto">
 &lt;figcaption>Final Group Pic&lt;/figcaption>
 &lt;/figure>
-&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.&lt;/p>
+&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog project by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management and the technical aspect of how this blog is made.&lt;/p>
 &lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>The IEDCMEC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
 &lt;h2 id="why-we-built-the-blog">Why we built the blog&lt;/h2>
