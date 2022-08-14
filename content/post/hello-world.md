@@ -3,7 +3,7 @@ title: "Hello World ✨"
 date: 2022-08-13T14:53:07+05:30
 Description: "Reflections on the technical and non-technical aspects of the blog project by the CTO of IEDCMEC"
 Tags: ["tech-team", "behind-the-scenes", "project"]
-Categories: []
+Categories: ["tech"]
 DisableComments: false
 authors:
   - name: "Aldrin Jenson"
@@ -88,7 +88,7 @@ I put up a message in the IEDC Tech team Whatsapp group, inviting those interest
 
 So far the blog team consists of 7 members with the team headed by [Amal Dev](https://github.com/amaldevcd) and Alan.
 
-We have 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)
+We have 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and [Lisa](https://github.com/LisaVCherian)(Tech subhead✨)
 
 Special mention goes to [Jason Dennis](https://github.com/jaison080/) and [Gokulnath](https://github.com/gokz1119/) whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And boy, was I happy!
 
