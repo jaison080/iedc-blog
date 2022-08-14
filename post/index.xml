@@ -86,11 +86,11 @@
 &lt;img src="https://blog.iedcmec.in/images/indiafoss/img10.jpeg" width="550" height="auto">
 &lt;figcaption>Final Group Pic&lt;/figcaption>
 &lt;/figure>
-&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/about-blog/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/about-blog/</guid><description>&lt;p>Behind the scenes view into the making of IEDC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.&lt;/p>
+&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog. Maybe a bit long, but read on if you are interested about project management, technical aspect of how this blog is made.&lt;/p>
 &lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>The IEDC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
+&lt;p>The IEDCMEC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
 &lt;h2 id="why-we-built-the-blog">Why we built the blog&lt;/h2>
-&lt;p>A blog is a great medium to showcase the thoughts and literary works of the members of an organization of community and the blog idea was something I held very close to my heart. Every great organization had a blog site - be it technical or non-technical.&lt;/p>
+&lt;p>A blog is a great medium to showcase the thoughts and literary works of the members of an organization of community and hence the blog idea was something I held very close to my heart. Every great organization had a blog site - be it technical or non-technical.&lt;/p>
 &lt;p>While most clubs or communities usually depend upon blogging platforms like Medium, Blogger, Blogspot etc, IEDC MEC, with it&amp;rsquo;s awesome tech team (More on the IEDC teams in a later blog maybe) and a firm follower of FOSS technologies, decided to have the blog platform built in-house by our students ✨.&lt;/p>
 &lt;h2 id="features-of-the-blog">Features of the blog&lt;/h2>
 &lt;p>Major features we now have of the blog are:&lt;/p>
@@ -119,8 +119,8 @@
 &lt;p>In a nutshell, you give an article as a markdown file(more on this later) as input to hugo, and it builds out HTML blog pages based on the theme and customisations you&amp;rsquo;ve set. The tricky part is the customisability. I&amp;rsquo;ve know people who&amp;rsquo;ve dropped the whole idea of a blog just because this part took a long time for them to figure out.&lt;/p>
 &lt;p>Once the framework was decided, next step was setting up the team and providing the training.&lt;/p>
 &lt;h3 id="the-training">The Training&lt;/h3>
-&lt;p>Almost everyone in the team hadn&amp;rsquo;t heard about Hugo before or didn&amp;rsquo;t even know why use a framework for a blog. So the initial part of the challenge was organizing a training session to get them up to speed.&lt;/p>
-&lt;p>A great help to me in this mission this was &lt;a href="https://github.com/alanphil2k01">Allen Phillipose&lt;/a>. He had had some experience with &lt;a href="https://go.dev/">goLang&lt;/a> before and when I proposed to him the idea of a blog framework written in Go(Hu&lt;strong>Go&lt;/strong>), he was ready to jump in.&lt;/p>
+&lt;p>None of the team members had heard about Hugo before or most folks didn&amp;rsquo;t initially even have much idea about why use a framework for a blog at all. So the initial part of the challenge was organizing a training session to get them up to speed.&lt;/p>
+&lt;p>A great help to me in this task this was &lt;a href="https://github.com/alanphil2k01">Allen Phillipose&lt;/a>. He had had some experience with &lt;a href="https://go.dev/">GoLang&lt;/a> before and when I proposed to him the idea of a blog framework written in Go(Hu&lt;strong>Go&lt;/strong>), he was ready to jump in.&lt;/p>
 &lt;p>I sent him Hugo docs and my own &lt;a href="https://aldrinjenson.me/">personal blog&lt;/a> I had made earlier where I had a &lt;a href="https://aldrinjenson.me/posts/hosting-hugo-sites-on-gh-pages/">post&lt;/a> about hosting Hugo with gh-pages as an example.
 He found Hugo very interesting and within two weeks, showed me a sample blog he made.&lt;/p>
 &lt;p>We organized a workshop on building blogs with Hugo for the tech team. The session was taken together by Alan Philipose and me.
@@ -133,9 +133,9 @@ He found Hugo very interesting and within two weeks, showed me a sample blog he 
 &lt;p>Now, it was time for recruiting. Alan Philipose built the initial base version of the blog by choosing &lt;a href="https://github.com/lxndrblz/anatole/">Anatole&lt;/a> theme. It came pre built with some configs which would help us satisfy many of the above features without much extra coding. He added the IEDC MEC logo and gave some touch ups to make everything match nicely.&lt;/p>
 &lt;p>I put up a message in the IEDC Tech team Whatsapp group, inviting those interested in CSS works to join in and 6 folks signed up pretty soon. (Pretty sure we could&amp;rsquo;ve got even more members if it wasn&amp;rsquo;t for the exams coming soon, but the small number turned out to be favorable as recruiting many without ensuring that there were enough tasks for everyone to try out may not have been a great idea.&lt;/p>
 &lt;h3 id="the-team">The team&lt;/h3>
-&lt;p>So far the blog team consists of 7 members with the team headed by &lt;a href="mailtoamaldevcd@gmail.com">Amal Dev&lt;/a> and Alan.&lt;/p>
+&lt;p>So far the blog team consists of 7 members with the team headed by &lt;a href="https://github.com/amaldevcd">Amal Dev&lt;/a> and Alan.&lt;/p>
 &lt;p>We had 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)&lt;/p>
-&lt;p>You can see all the team members here.&lt;/p>
+&lt;p>You can see all the team members &lt;a href="https://github.com/orgs/IEDCMEC/teams/blog-team/members">here&lt;/a>.&lt;/p>
 &lt;p>Special mention goes to Jason Dennis and Gokulnath whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And, boy was I happy!&lt;/p>
 &lt;h3 id="then">Then&lt;/h3>
 &lt;p>Once the team was formed, I made up my mind to ensure that everyone who signed up should be getting atleast one chance to work on the blog. If they were interested and ready, we could find some more tasks for them.&lt;/p>
@@ -156,20 +156,17 @@ But again, our team was great and we pulled off all the features successfully.&l
 &lt;p>The blog went through several iterations where it was shared with the Tech team core members who gave some valuable suggestions. It was shown later to &lt;a href="https://medium.com/@prnvsan">Pranav&lt;/a> who talked about several features of Medium. I immediately made up my mind to have atleast some features of it be implemented in our blog as well:)
 Finally it was shared to the IEDC Execom for suggestions and feedback.&lt;/p>
 &lt;p>Boy, we followed Agile. Yes &lt;a href="https://www.linkedin.com/in/muhammed-razeen-298815190">Razeen&lt;/a> (IEDC CEO), you should be proud😁.&lt;/p>
-&lt;p>Right now the blog is in a state where majority of the suggestions has been addressed and there are a few features on which the blog team members are still working on as I&amp;rsquo;m writing this.&lt;/p>
+&lt;p>Right now the blog is in a state where majority of the suggestions have been addressed and there are a few features on which the blog team members are still working on as I&amp;rsquo;m writing this.&lt;/p>
 &lt;h2 id="future-plans">Future plans&lt;/h2>
 &lt;p>Initially the Blog workshop using Hugo was conducted just for the tech team members and was not publicized elsewhere as this was the very first workshop by the new Tech team and I wanted to have it run in a small team before opening it up to a very large group.&lt;/p>
 &lt;p>We now have plans to conduct this workshop at a larger scale and open it up to all MEC-ians who wants to get a taste of blogs and how easy it is to build and create a personal blog to showcase their thoughts and works.&lt;/p>
 &lt;p>We are also thinking of conducting a workshop on writing with Markdown. The awesome syntax which you might have seen in github readMe or github editor is how each article in the blog is written. Right now, as it&amp;rsquo;s the starting phase, it&amp;rsquo;s good old Amal Dev converting the article in Google Doc to Markdown. We want to change that by introducing Markdown syntax and various Markdown based editors to increase the productivity of budding writers in MEC✨.&lt;/p>
-&lt;!-- ## Conclusions and personal Afterthoughts
-Right now, the blog is set and each member of the team has worked on some feature to make the whole thing great. Plannings for the future sessions have also been going well. Since the blog is pretty stable rn, the members of blog team can easily take up any other projects of the tech team. -->
 &lt;h2 id="personal-challenges-learnings-and-afterthoughts">Personal challenges, learnings and afterthoughts&lt;/h2>
 &lt;p>For me personally, this whole endeavour was heartwarming while being stressful at the same time. We managed to pull off the whole blog - right from the planning, training, developing and deployment all within one month and that too in between series and Semester exams!&lt;/p>
 &lt;p>While I have led technical teams before, never before did I face such a challenge of managing multiple projects running parallelly(MEC Collab coming soon✨) than in this CTO role at IEDC. In between I had to go to Bangalore, meet personal commitments, do my Mom&amp;rsquo;s e-Filing(boy, the time this can take&amp;hellip;)&lt;/p>
 &lt;p>The project taught me that you can&amp;rsquo;t make something great by just telling people to do it. If a project has to be successful, you&amp;rsquo;d have to put in sufficient efforts from your part. It may not always be easy, but the satisfaction you get at the end is worth it. ✨&lt;/p>
-&lt;!-- fix this -->
 &lt;p>I&amp;rsquo;ve been fortunate enough to study in MEC where I&amp;rsquo;ve seen a lot of talented folks. I&amp;rsquo;ve known developers who could read about Hugo and replicate a whole blog like this a few days.
-But what I&amp;rsquo;m proud of right now is the workflow the blog team have set up - No dependence on any single person. Like clockwork (cue Razeen), we now have a system seen set up to handle new blog articles to be published, or new features to be developed.&lt;/p>
+But what I&amp;rsquo;m proud of right now is the workflow the blog team have set up - No dependence on any single person. Like clockwork (cue Razeen), we now have a system set up to handle new blog articles to be published, or new features to be developed.&lt;/p>
 &lt;p>Like Napolean Said:&lt;/p>
 &lt;blockquote>
 &lt;p>If you want to go fast, go alone.&lt;/p>
@@ -178,6 +175,6 @@ But what I&amp;rsquo;m proud of right now is the workflow the blog team have set
 &lt;p>Reminds me of an answer by &lt;a href="http://nadh.in/">Kailash Nadh&lt;/a>(CTO of Zerodha) when I asked him during IndiaFoss (read about IndiaFoss and IEDC &lt;a href="https://blog.iedcmec.in/post/indiafoss/">here&lt;/a>), his thoughts on the challenges of being in a technical leadership position, his answer was something along this: &amp;ldquo;Being in a technical leadership position is 90% about things other than writing code. Deal with the boring parts as well to be a great technical leader. Be diligent and curious.&amp;rdquo; ✨&lt;/p>
 &lt;p>P.S. His answer not exactly like this, but what struck my mind was something along these lines. Don&amp;rsquo;t quote me please.&lt;/p>
 &lt;p>With placements looming overhead, other IEDC projects running parallally, personal commitments and exam pressure, this whole processes of talking up initiative for the Blog project which involves talking to team members, clearing doubts, setting up workflows and a large number of other small small actions were really challenging.&lt;/p>
-&lt;p>If it wasn&amp;rsquo;t for the constant support of Adithya(Adi) and the dear tech subhead Lisa VC, I&amp;rsquo;d have probably burned out earlier. But, with the blog being launched and the with really great positive feedback received, I have to say, there&amp;rsquo;s quite the joy in seeing the team you&amp;rsquo;ve brought together and trained, doing something great(Razeen and Adi, if you&amp;rsquo;re reading this, now I know how you guys feel🙂). It fills you with pride and makes your eyes glow with optimism for the future possibilities.&lt;/p>
+&lt;p>If it wasn&amp;rsquo;t for the constant support of Adithya(Adi) and the dear tech subhead Lisa VC, I&amp;rsquo;d have probably burnt out earlier. But, with the blog being launched and the with really great positive feedback received, I have to say, there&amp;rsquo;s quite the joy in seeing the team you&amp;rsquo;ve brought together and trained, doing something great(Razeen and Adi, if you&amp;rsquo;re reading this, now I know how you guys feel🙂). It fills you with pride and makes your eyes glow with optimism for the future possibilities.&lt;/p>
 &lt;p>Kudos to the tech team. 🥂&lt;/p>
 &lt;p>To even more great adventures✨&lt;/p></description></item></channel></rss>
