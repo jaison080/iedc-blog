@@ -1,0 +1,29 @@
+<div class="post__author">
+
+    <h2>Written by</h2>
+
+    {{ range .Params.authors }}
+
+    {{ if .name }}
+    <p class="author__name">
+
+        {{ if .website }}
+        <a target="_blank" href={{.website}}>{{ .name }}</a>
+
+        {{ else }}
+        <a>{{ .name }}</a>
+
+        {{ end }}
+
+    </p>
+
+    {{ if .about }}
+    <p class="author__about">{{ .about }}</p>
+    
+    {{ end }}
+
+    {{ end }}
+
+    {{ end }}
+
+</div>

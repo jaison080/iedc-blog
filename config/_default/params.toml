@@ -6,7 +6,7 @@ profilePicture = "images/global/iedc_logo.png"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = ["css/sidebar.css", "css/applause-button.css"]
+customCss = ["css/sidebar.css", "css/applause-button.css", "css/author.css"]
 # example ["js/custom.js"]
 customJs = []
 mainSections = ['post']
