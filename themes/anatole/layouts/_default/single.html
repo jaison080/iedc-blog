@@ -67,6 +67,10 @@
 
       {{ .Content }}
 
+      {{- if .Params.authors -}}
+        {{- partial "author.html" . -}}
+      {{- end -}}
+
       {{- if isset .Params "series" -}}
         {{- partial "series.html" . -}}
 
