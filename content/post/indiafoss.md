@@ -1,6 +1,14 @@
 ---
 title: "An IndiaFOSS Story"
 date: 2022-08-13T15:23:44+05:30
+authors:
+-
+    name: "Adithya A"
+    website: "https://www.linkedin.com/in/adithyaanilkumar/"
+-
+    name: "Sreehari Sreekumar"
+    website: "https://www.linkedin.com/in/sreehari-sreekumar-596597200/"
+
 Description: ""
 Tags: []
 Categories: []
