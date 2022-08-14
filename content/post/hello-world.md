@@ -90,7 +90,7 @@ So far the blog team consists of 7 members with the team headed by [Amal Dev](ht
 
 We have 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and [Lisa](https://github.com/LisaVCherian)(Tech subhead✨)
 
-Special mention goes to [Jason Dennis](https://github.com/jaison080/) and [Gokulnath](https://github.com/gokz1119/) whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And boy, was I happy!
+Special mention goes to [Jaison Dennis](https://github.com/jaison080/) and [Gokulnath](https://github.com/gokz1119/) whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And boy, was I happy!
 
 You can check out our blog repository [here](https://github.com/IEDCMEC/iedc-blog) to discover the team members.
 P.S. We're open to contributions as well :)
