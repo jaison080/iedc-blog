@@ -88,11 +88,12 @@ I put up a message in the IEDC Tech team Whatsapp group, inviting those interest
 
 So far the blog team consists of 7 members with the team headed by [Amal Dev](https://github.com/amaldevcd) and Alan.
 
-We had 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)
+We have 2 second years, 4 first years and one third year excluding me, AmalDev, Allen and Lisa(Tech subhead✨)
 
-You can see all the team members [here](https://github.com/orgs/IEDCMEC/teams/blog-team/members).
+Special mention goes to [Jason Dennis](https://github.com/jaison080/) and [Gokulnath](https://github.com/gokz1119/) whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And boy, was I happy!
 
-Special mention goes to Jason Dennis and Gokulnath whose enthusiasm to make PRs and add features to the blog so quickly, surprised me greatly. And, boy was I happy!
+You can check out our blog repository [here](https://github.com/IEDCMEC/iedc-blog) to discover the team members.
+P.S. We're open to contributions as well :)
 
 ### Then
 
