@@ -11,11 +11,11 @@ authors:
     website: "https://www.linkedin.com/in/aldrinjenson/"
 ---
 
-Behind the scenes view into the making of IEDCMEC blog project by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management and the technical aspect of how this blog is made.
+Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.
 
 ## Introduction
 
-The IEDCMEC Blog you are looking at right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.
+The IEDCMEC Blog platform in which you are reading this article right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.
 
 ## Why we built the blog
 
@@ -95,21 +95,21 @@ Special mention goes to [Jason Dennis](https://github.com/jaison080/) and [Gokul
 You can check out our blog repository [here](https://github.com/IEDCMEC/iedc-blog) to discover the team members.
 P.S. We're open to contributions as well :)
 
-### Then
+### Next Step
 
 Once the team was formed, I made up my mind to ensure that everyone who signed up should be getting atleast one chance to work on the blog. If they were interested and ready, we could find some more tasks for them.
 
-The base version of blog was shown to a few folks outside the blog team and an initial set of feedback was received. Based on this, Alan made a bit more base customizations like adding the dark theme(much requested, yes) feature. (Hey, does Medium have a dark mode? No, only SEO features? okay. Cool)(Sorry, I don't like Medium and it's full propreitariness; can't help taking a dig at it🙈).
+The base version of blog was shown to a few folks outside the blog team and an initial set of feedback was received. Based on this, Alan made a bit more base customizations like adding the dark theme(much requested, yes) feature. (Hey, does Medium have a dark mode? No, only SEO features? okay. Cool)(Sorry, I [don't like](ttps://news.ycombinator.com/item?id=20115037) Medium; can't help taking a dig at it🙈).
 
 Some challenges I faced at this stage was:
 
 1. How to divide and assign features to a team effectively while ensuring that none gets overworked but gets something cool and interesting to try out
 2. How to follow up and manage the tasks efficiently.
 
-Amal Dev from Tech Core team had shown interest to help out with the project, even though this was his first time in a managerial kinda role. With short time, we worked up an arrangement between us and tasks were being assigned in an okayish manner.
+Amal Dev from Tech Core team had shown interest to help out with the project, even though this was his first time in a managerial kinda role. With short time, we worked up an arrangement between us and tasks were being assigned in an okay manner.
 
 One thing I took great care was that everyone who worked on the blog got sufficient help and mentorship when and if they got stuck with the development works. This wasn't easy as those who could mentor for the blog were just Alan and me.
-But again, our team was great and we pulled off all the features successfully.
+But again, our team was great and we pulled off implementing features successfully.
 
 ## Regarding deployment
 
@@ -151,7 +151,7 @@ Like Napolean Said:
 
 > If you want to go fast, go alone.
 >
-> If you want to go far go together
+> If you want to go far, go together
 
 Reminds me of an answer by [Kailash Nadh](http://nadh.in/)(CTO of Zerodha) when I asked him during IndiaFoss (read about IndiaFoss and IEDC [here](https://blog.iedcmec.in/post/indiafoss/)), his thoughts on the challenges of being in a technical leadership position, his answer was something along this: "Being in a technical leadership position is 90% about things other than writing code. Deal with the boring parts as well to be a great technical leader. Be diligent and curious." ✨
 
