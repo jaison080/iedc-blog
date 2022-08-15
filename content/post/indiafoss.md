@@ -7,6 +7,7 @@ authors:
     about: "A DIY Homosapien who loves to create new products and get my hands dirty with Fullstack Web Development and IoT!"
   - name: "Sreehari Sreekumar"
     website: "https://www.linkedin.com/in/sreehari-sreekumar-596597200/"
+    about: "An energy filled 19 year old aspiring Marketer , who enjoys vlogging in his spare time"
 
 Description: ""
 Tags: []
