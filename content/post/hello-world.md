@@ -55,7 +55,7 @@ As CTO, I had the initial say in decisions. I wanted a blog framework which didn
 
 Having had experience with blog frameworks like [Gatsby](https://www.gatsbyjs.com/), [Hugo](https://gohugo.io/) etc in the past, I felt like Hugo would be a safe and easier option to consider. I also had a senior Pranav Sridhar recommending me this as well.
 
-In a nutshell, you give an article as a markdown file(more on this later) as input to hugo, and it builds out HTML blog pages based on the theme and customisations you've set. The tricky part is the customisability. I've know people who've dropped the whole idea of a blog just because this part took a long time for them to figure out.
+In a nutshell, you give an article as a markdown file(more on this later) as input to hugo, and it builds out HTML blog pages based on the theme and customisations you've set. The tricky part is the customisability. I've known people who've dropped the whole idea of a blog just because this part took a long time for them to figure out.
 
 Once the framework was decided, next step was setting up the team and providing the training.
 
