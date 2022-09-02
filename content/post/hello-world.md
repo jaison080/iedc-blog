@@ -9,6 +9,7 @@ authors:
   - name: "Aldrin Jenson"
     about: "CSB, MEC'23 | CTO of IEDC MEC"
     website: "https://www.linkedin.com/in/aldrinjenson/"
+    image: "https://media-exp1.licdn.com/dms/image/C4E03AQFRyEf9w-U15g/profile-displayphoto-shrink_100_100/0/1599441034813?e=1667433600&v=beta&t=POD4WMBYLTTzy0TnrEnBln1HTxvdx48yxRqTJL_7ENc"
 ---
 
 Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.

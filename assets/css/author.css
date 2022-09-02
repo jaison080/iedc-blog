@@ -9,6 +9,22 @@
 
 .author__about {
     font-size: 1.5rem;
-    margin-inline: 0.3rem;
-    margin-left: -0.2rem;
+}
+.author__image
+{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    pointer-events: none;
+}
+.author__image__div
+{
+    padding-right: 15px;
+    padding-top: 8px;
+}
+.author__list
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 }
