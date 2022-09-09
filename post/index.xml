@@ -1,7 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on IEDC Blog</title><link>https://blog.iedcmec.in/post/</link><description>Recent content in Posts on IEDC Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jul 2022 22:26:10 +0530</lastBuildDate><atom:link href="https://blog.iedcmec.in/post/index.xml" rel="self" type="application/rss+xml"/><item><title>An IndiaFOSS Story</title><link>https://blog.iedcmec.in/post/indiafoss/</link><pubDate>Sat, 13 Aug 2022 15:23:44 +0530</pubDate><guid>https://blog.iedcmec.in/post/indiafoss/</guid><description>&lt;p>&lt;a href="https://indiafoss.net/" target="_blank" rel="noopener">IndiaFOSS&lt;/a> is a yearly conference conducted by the &lt;a href="https://www.linkedin.com/company/fossunited/" target="_blank" rel="noopener">FOSS United&lt;/a> community with a goal to bring software developers, policy makers, communities and enthusiasts together, so that they can learn and inspire each other.&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on IEDC Blog</title><link>/post/</link><description>Recent content in Posts on IEDC Blog</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 16 Jul 2022 22:26:10 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml"/><item><title>INDIA FOSS 2.0 : A first year perspective</title><link>/post/indiafoss-firstyear/</link><pubDate>Wed, 07 Sep 2022 15:47:38 +0530</pubDate><guid>/post/indiafoss-firstyear/</guid><description>&lt;p>India Foss 2.0 was held on the 23rd and 24th of July at NIMHANS, Bangalore and it was our first tech conference. Even though our seniors had assured us that they’d guide us and help us in networking with all the cool and important people out there, we were quite apprehensive. As first years with hardly any idea about what was about to happen and not even sure if we’ll understand half of the things that would be discussed there, we were pretty scared but equally excited.&lt;/p>
+&lt;h2 id="talks">Talks&lt;/h2>
+&lt;p>The talks took place in two different Auditoriums and each had different sessions going on simultaneously so it was a tough task to choose between the topics as they were equally new and exciting.&lt;/p>
+&lt;p>The first talk session we attended was “Introducing Mon School” by Jannat Patel. Mon School is a not-for-profit online platform for learning programming. She talked about how it’ll help a wider group of people to get started with programming and also urged people to contribute to Mon School.&lt;/p>
+&lt;p>“Fireside chat with Rudra Saraswat: 12 year old Linux dev” was one of our favourite sessions. This 12 year old boy is an official Ubuntu member, and the Creator/Project Lead of: Ubuntu Unity Remix, at such a young age and is also managing other activities like tabla classes and exams on the side. The interviewer was Kailash Nadh, CTO of Zerodha and it was such a warm chat session which left us all motivated to do more.&lt;/p>
+&lt;br>
+&lt;img src="/images/indiafoss-firstyear/image1.jpg" width="550" height="auto">
+&lt;br>
+&lt;p>Talks such as “Building Dictionaries, Open Data Open source” by the CTO of Zerodha, “Foss Mobile UPI APP” by Nemo, “Scanning is the New Spinning” by Om Shiv Prakash L, “Chaos genius” by Harshit Surana etc although extremely technical talks, filled us with a variety of new ideas, inspirations for new projects and most of all, encouraged us to learn and explore more into these fields.&lt;/p>
+&lt;p>A presentation that really got us interested was “India’s Soft Corner for Software Patents: an empirical study” led by Raghav Ahooja. Mr Ahooja did the presentation in such a way that it highlighted the issue at hand and conveyed its seriousness correctly, but in a way that was humorous and fun, making it very engaging.&lt;/p>
+&lt;p>Flash Talks had an interesting queue of speakers and projects. We were really excited to see Aldrin Jension, IEDC MEC CTO, presenting.&lt;/p>
+&lt;p>Moosa Mehar M P’s talk about the TInkerhub Movement, its history, the community and the stats was really interesting. Hearing how humble the beginnings were and where they are now in outreach is very commendable. Mr. Mehar also shared some disheartening statistics about unemployment in India/Kerala and the unemployability of engineering graduates, as well as some of the limitations of women in Tech and how they hope that Tinkerhub and organisations like this will be able to mitigate this gap.&lt;/p>
+&lt;h2 id="swags-fun-and-food">Swags, fun and food!&lt;/h2>
+&lt;p>One of the things we had a lot of fun doing was interacting with the different sponsors, doing all the fun quizzes and puzzles and getting popcorn, t-shirts, mugs, books and stickers. We are sure to hoard these souvenirs forever.&lt;/p>
+&lt;br>
+&lt;img src="/images/indiafoss-firstyear/image3.jpg" width="550" height="auto">
+&lt;br>
+&lt;p>Food provided on both days (Breakfast, Lunch, Tea and Snack) was amazing and we even had 3 desserts during lunch! Did not miss home at all!&lt;/p>
+&lt;p>It was during the sessions that we realised many projects were hiring developers! An opportunity we otherwise wouldn&amp;rsquo;t have been exposed to. Although a lot of us weren&amp;rsquo;t qualified right on the spot, it gave us something to look forward to.&lt;/p>
+&lt;h2 id="networking-and-meeting-people">Networking and meeting people&lt;/h2>
+&lt;p>With the help of our seniors we were able to interact with really important people like Andrew Bastin, Co Founder and CTO of Hoppscotch and Sooraj, a Senior Software Engineer at Hasura, at their stall, and talked about how their service accelerates the MVP building process. We are extremely thankful to all the seniors who were there at the venue, guiding and helping us throughout.&lt;/p>
+&lt;br>
+&lt;img src="/images/indiafoss-firstyear/image2.jpg" width="550" height="auto">
+&lt;br>
+&lt;p>India FOSS 2.0 was a wonderful opportunity for us to meet new people and listen to talks and presentations by such amazing personalities. We feel very lucky to have had such a massive exposure in our first year and we will surely be looking forward to attending India FOSS 3.0.&lt;/p></description></item><item><title>An IndiaFOSS Story</title><link>/post/indiafoss/</link><pubDate>Sat, 13 Aug 2022 15:23:44 +0530</pubDate><guid>/post/indiafoss/</guid><description>&lt;p>&lt;a href="https://indiafoss.net/" target="_blank" rel="noopener">IndiaFOSS&lt;/a> is a yearly conference conducted by the &lt;a href="https://www.linkedin.com/company/fossunited/" target="_blank" rel="noopener">FOSS United&lt;/a> community with a goal to bring software developers, policy makers, communities and enthusiasts together, so that they can learn and inspire each other.&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img.jpeg" width="550" height="auto">
 &lt;figcaption>Our Team @ IndiaFoss&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -10,7 +34,7 @@
 &lt;p>&lt;em>Adithya : Oh man, I think I missed out on the T-Shirts :/, but the last two days were such a blast. This is by far one of the most fruitful events that I have attended this year. The speaker sessions were really informative and eye-opening even though I couldn&amp;rsquo;t attend all of them. Which all talk sessions did you like the most at the conference?&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img2.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img2.jpeg" width="550" height="auto">
 &lt;figcaption>Andrews talk on the Hoppscotch Manifesto&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -18,7 +42,7 @@
 &lt;p>&lt;em>Adithya : I agree, it was kind of difficult to choose between the two venues as both of them had equally good topics. I wanted to attend both simultaneously. The first talk that I attended was on &lt;a href="https://www.qgis.org/en/site/" target="_blank" rel="noopener">GIS&lt;/a> and how it was used to plan rural roads by &lt;a href="https://www.linkedin.com/in/harsh-nisar-b8347588/" target="_blank" rel="noopener">Harsh Nisar&lt;/a> , lead data scientist at the Ministry of Rural Development. This particular talk was of real interest to me as I had worked on a project using the same technology. He gave an overview of how he was able to use &lt;a href="https://www.qgis.org/en/site/" target="_blank" rel="noopener">QGIS&lt;/a> algorithms and Trace Maps to build rural road infrastructure.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img3.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img3.jpeg" width="550" height="auto">
 &lt;figcaption>Talk on use of GIS in rural road development by Harsh&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -26,14 +50,14 @@
 &lt;p>&lt;em>Adithya : I know right! It was during the breaks that I was able to interact with volunteers from Zerodha. That&amp;rsquo;s when I met Joe, and we talked about how important events like these are for the developer community. The funny thing is that , during the conversation I got to know that he was an X-Mecian ( graduate from Model Engineering College ) and we had connected on LinkedIn a few days ago. He also shared his inspiring journey with open source and how that helped him to land a job at Zerodha as a developer. I also met Joice, from Zerodha, who was also a contributor to Swathanthra Malayalam Computing foundation( Maintainers of Indic Keyboard ). We talked about bringing more awareness to the SMC community. Both of them were really interested to spread the word about open source and agreed to take sessions for students regarding the same.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img4.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img4.jpeg" width="550" height="auto">
 &lt;figcaption>Liberated Hardware display by Deeproot GNU/Linux&lt;/figcaption>
 &lt;/figure>
 &lt;br>
 &lt;p>&lt;em>Sree : They seem cool! Btw, remember the hardware display section with all those liberated routers , laptops , new 3d printer technology and custom made keyboards!!! The company behind it was ‘DeepRoot GNU/Linux&amp;rsquo; . Their founder &lt;a href="https://www.linkedin.com/in/abhas-abhinav/" target="_blank" rel="noopener">Abhas&lt;/a> believes that the best way to recommend and promote free / open source software is by building affordable solutions and backing them up with commercial and comprehensive support. There were some open spaces near the hardware display where some people gathered and sat together to discuss different tech subjects. Once when I passed by the place I heard some heated discussions about Rust going on xD.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img5.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img5.jpeg" width="550" height="auto">
 &lt;figcaption>Open space discussions going on….&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -41,21 +65,21 @@
 &lt;p>&lt;em>Sree : Oh, I had met some people from Juspay too. When their team came around to check on the community partners I was able to connect with them and explain about IEDC and its activities. It was a fun experience standing in our stall. A lot of interesting people came around to check out what IEDC was, it was really nice talking to them and was a fun way to network as well.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img6.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img6.jpeg" width="550" height="auto">
 &lt;figcaption>Sooraj's Talk on Building an OSS Postgres GUI with Typescript&lt;/figcaption>
 &lt;/figure>
 &lt;br>
 &lt;p>&lt;em>Adithya: True, it was really fun to meet people. I enjoyed networking so much that I actually spent more time talking to people than attending sessions!! The sponsor stalls were really nice too and everyone there were really friendly and approachable. It was at one of these stalls setup by Hasura that I met &lt;a href="https://www.linkedin.com/in/soorajsanker/" target="_blank" rel="noopener">Sooraj&lt;/a>, who was a Senior Software Engineer there.We talked about Hasura’s future goals and how they were looking into expanding their product to allow users to connect any type of database to their platform. Midway through the conversation I found out that Sooraj was also a fellow Malayali . We also talked about how &lt;a href="https://hasura.io/" target="_blank" rel="noopener">Hasura&lt;/a> could help in quick building of MVP’s for startups and also help students quickly turn their ideas into products. After this is when I saw that Kailash was interacting with participants and I knew that we had to seize the opportunity, so that&amp;rsquo;s when I called you to talk to him.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img7.jpg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img7.jpg" width="550" height="auto">
 &lt;figcaption>Meeting Kailash Nadh (Zerodha CTO)&lt;/figcaption>
 &lt;/figure>
 &lt;br>
 &lt;p>&lt;em>Sree : Meeting &lt;a href="https://www.linkedin.com/in/kailashnadh/" target="_blank" rel="noopener">Kailash&lt;/a> ( CTO of &lt;a href="https://www.linkedin.com/company/zerodha/" target="_blank" rel="noopener">Zerodha&lt;/a> ) was without doubt one of the highlights of our conference experience , we just randomly approached him after tea on day one but he was so cool with us. I never expected that he too was a malayali, knowing that he hailed from Kozhikode took me by surprise. His commitment to developing open source software and efforts in evangelizing the community is really awesome! The way he talked about team management , his work ethics and how his small team of less than 40 members are behind all technical operations at Zerodha blew me away. I guess he also was fascinated seeing the 75+ students ( which would have been 70 more if it wasn&amp;rsquo;t for our college management! ) who turned up from MEC to participate in IndiaFOSS that he promised to come with his team to Kochi, as well as MEC to meet all the FOSS enthusiasts here.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img1.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img1.jpeg" width="550" height="auto">
 &lt;figcaption>A click with some of the MEC students&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -64,14 +88,14 @@
 &lt;p>&lt;em>Adithya : No, I was talking to our juniors from MEC during that time. They were all gathered around our IEDC MEC stall and I was telling them about the power of networking and how the programs like Pre-incubation at IEDC MEC can help them utilize this. How did the panel discussion go?&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img8.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img8.jpeg" width="550" height="auto">
 &lt;figcaption>The panel discussion that concluded the event&lt;/figcaption>
 &lt;/figure>
 &lt;br>
 &lt;p>&lt;em>Sree: The discussion was a really nice way to wrap up IndiaFOSS. Kailash, Anand, &lt;a href="https://www.linkedin.com/in/rushabhmehta1/" target="_blank" rel="noopener">Rushabh&lt;/a> , and &lt;a href="https://www.linkedin.com/in/wisharya/" target="_blank" rel="noopener">Vishal&lt;/a> were all present throughout the discussion on the stage. I enjoyed how everyone present was given a chance to come forward and speak about their takeaways from the conference and what they look forward to in the coming years from the FOSS community. Participants, Volunteers, and Speakers of the conference all enthusiastically gave their opinions about topics like methods to evangelize FOSS, increasing the involvement of women in FOSS, and ensuring more women participation in the next edition, Vishal added that the open source domain was not exclusive to coders/developers and rather anyone with the desire and skill could contribute to the same.&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img9.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img9.jpeg" width="550" height="auto">
 &lt;figcaption>&lt;/figcaption>
 &lt;/figure>
 &lt;br>
@@ -83,10 +107,10 @@
 &lt;p>&lt;em>Sree: Good night!&lt;/em>&lt;/p>
 &lt;br>
 &lt;figure>
-&lt;img src="https://blog.iedcmec.in/images/indiafoss/img10.jpeg" width="550" height="auto">
+&lt;img src="/images/indiafoss/img10.jpeg" width="550" height="auto">
 &lt;figcaption>Final Group Pic&lt;/figcaption>
 &lt;/figure>
-&lt;br></description></item><item><title>Hello World ✨</title><link>https://blog.iedcmec.in/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>https://blog.iedcmec.in/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.&lt;/p>
+&lt;br></description></item><item><title>Hello World ✨</title><link>/post/hello-world/</link><pubDate>Sat, 13 Aug 2022 14:53:07 +0530</pubDate><guid>/post/hello-world/</guid><description>&lt;p>Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.&lt;/p>
 &lt;h2 id="introduction">Introduction&lt;/h2>
 &lt;p>The IEDCMEC Blog platform in which you are reading this article right now is an initiative started this year by the tech team of IEDC-MEC. This article lists out the approach we took to build the blog, the features it has and some of the challenges we faced.&lt;/p>
 &lt;h2 id="why-we-built-the-blog">Why we built the blog&lt;/h2>
