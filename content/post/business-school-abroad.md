@@ -1,14 +1,14 @@
 ---
 title: "Business Schools Abroad"
-date: 2022-09-17T17:44:53+05:30
+date: 2022-09-22T17:44:53+05:30
 authors:
   - name: "Gourisankar Shaji"
     website: "https://www.linkedin.com/in/gourisankar-shaji"
     about: "CS3B"
     image: "https://media-exp1.licdn.com/dms/image/C5603AQGWmcqf9S0YyQ/profile-displayphoto-shrink_800_800/0/1599631765680?e=1669248000&v=beta&t=WU70OsDpGS5S-M6AGPP6lZBYlNPys5wVCY47u78sC50"
 Description: "A detailed overview of the session taken by Harinarayanan Shaji on 15th June. It gives a general summary of his experiences and findings while studying in and preparing for Business Schools Abroad."
-Tags: ["B-School","Higher Education"]
-Categories: ["Education"]
+Tags: ["b-schools","higher-education"]
+Categories: ["education"]
 DisableComments: false
 ---
 
