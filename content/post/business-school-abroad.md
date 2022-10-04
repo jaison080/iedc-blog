@@ -4,7 +4,7 @@ date: 2022-09-22T17:44:53+05:30
 authors:
   - name: "Gourisankar Shaji"
     website: "https://www.linkedin.com/in/gourisankar-shaji"
-    about: "CS3B"
+    about: "He thrives as a media black hole consuming all kinds of internet content especially if it involves fantasy. He’s been told he’s intimidating but really is just open to get comfortable and talk about anything. He enjoys seeking pleasure in the mundane."
     image: "https://media-exp1.licdn.com/dms/image/C5603AQGWmcqf9S0YyQ/profile-displayphoto-shrink_800_800/0/1599631765680?e=1669248000&v=beta&t=WU70OsDpGS5S-M6AGPP6lZBYlNPys5wVCY47u78sC50"
 Description: "A detailed overview of the session taken by Harinarayanan Shaji on 15th June. It gives a general summary of his experiences and findings while studying in and preparing for Business Schools Abroad."
 Tags: ["b-schools","higher-education","business"]
@@ -13,9 +13,12 @@ DisableComments: false
 ---
 
 
-Harinarayanan Shaji is a Model Engineering College graduate of the 2021 batch and is currently studying in EDHEC Business School in Lille, France. He spent 4 years studying engineering, wondering whether he was really learning anything and whether at the end of it he ever really did learn anything. 
+Harinarayanan Shaji is a Model Engineering College graduate of the 2021 batch and is currently studying in EDHEC Business School in Lille, France. He spent 4 years ~~studying engineering~~, wondering whether he was really learning anything and whether at the end of it he ever really did learn anything. 
 
-“Switching to Business isn’t really that radical a change”<br>
+>#### “Switching to Business isn’t really that radical a change”
+
+  
+
 Nothing you learn will be wasted. Even if there aren’t many correlations between Business and Engineering, you may still use the things you learnt during Engineering while learning and doing Business. Studying Engineering is not an investment you’re losing when you take up a Masters in Business but a valuable asset you can use in almost everything.
 
 
@@ -28,7 +31,7 @@ When you decide on your college, you need to realise and figure out **Your** par
 <br>
 
 1.  Grade Point Average (GPA)
-<br>For a good MBA course, you don’t need more than 8.5 GPA. That doesn’t mean getting a higher GPA means your efforts will be wasted. In Europe, more than how high your GPA is, they care about how it affects you and why it matters to you. 
+<br>For a good MBA course, you don’t need more than 8.5 GPA. That doesn’t imply getting a higher GPA means your efforts will be wasted. In Europe, more than how high your GPA is, they care about how it affects you and why it matters to you. 
 
 2. Cost
 <br>It is the tuition fee, cost of living, etc. The tuition fee is cheapest in Europe, cheaper in the UK and usually the most expensive in the USA
