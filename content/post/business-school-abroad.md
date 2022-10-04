@@ -7,7 +7,7 @@ authors:
     about: "CS3B"
     image: "https://media-exp1.licdn.com/dms/image/C5603AQGWmcqf9S0YyQ/profile-displayphoto-shrink_800_800/0/1599631765680?e=1669248000&v=beta&t=WU70OsDpGS5S-M6AGPP6lZBYlNPys5wVCY47u78sC50"
 Description: "A detailed overview of the session taken by Harinarayanan Shaji on 15th June. It gives a general summary of his experiences and findings while studying in and preparing for Business Schools Abroad."
-Tags: ["b-schools","higher-education"]
+Tags: ["b-schools","higher-education","business"]
 Categories: ["education"]
 DisableComments: false
 ---
