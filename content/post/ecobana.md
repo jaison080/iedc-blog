@@ -7,8 +7,8 @@ authors:
     about: "2nd year ECE student with an interest in technology and design. My main hobby includes reading, writing poetry and book reviews, and journaling."
     image: "https://media-exp1.licdn.com/dms/image/C4E03AQFl3YvaPfq-Rw/profile-displayphoto-shrink_400_400/0/1647760034881?e=1670457600&v=beta&t=5B-J1PFZLl66fMu0Vu1IyhVvPXeg4ZtPbVC1ubGNREQ"
 Description: ""
-Tags: []
-Categories: []
+Tags: ["hult-prize"]
+Categories: ["social impact"]
 DisableComments: false
 ---
 Ideas that can change the course of a society or solve leading issues that have been poorly handled or left to perish are only possible through human minds. And that is what the Hult Prize does - solving the planet's most pressing issues through social entrepreneurship. This year, the fortune of Kenyan women and society was anchored towards a new light by the project - ECOBANA
@@ -24,9 +24,9 @@ The core project of Eco-Bana was born after a severe shortage of sanitary pads d
 
 ## Possibilities and Advantages
 
-Through this project, ECO-BANA hopes to establish a business model that, by 2024, will sell more than three million pads, generate over $50,000, and employ more than two thousand people. The project's immense impact provides young women and youth with training and employment opportunities in the fields of production. In refugee camps, slums, and rural regions, each sachet is anticipated to assist seven women and girls in completing their education and provide opportunities for numerous families to boost their income. The product, which claims to be 65% more sustainable and 45% cheaper, eliminates factors like discomfort and irritation and provides comfortability, and its biodegradable nature Improves the conservation of the environment.
+Through this project, ECO-BANA hopes to establish a business model that, by 2024, will sell more than three million pads, generate over $50,000, and employ more than two thousand people. The project's immense impact provides young women and youth with training and employment opportunities in the fields of production. In refugee camps, slums, and rural regions, each sachet is anticipated to assist seven women and girls in completing their education and provide opportunities for numerous families to boost their income. The product, which claims to be 65% more sustainable and 45% cheaper, eliminates factors like discomfort and irritation and provides comfortability, and its biodegradable nature improves the conservation of the environment.
 
-## The vision of ECO-BANA and Hope
+## The Vision of ECO-BANA and Hope
 
 With the help of Design Thinking and a grasp of the green economy, ECO-BANA developed a game-changing idea that provided the solution to a significant problem the nation was facing. The things ECO-BANA accomplished with a single spark of human ingenuity are brilliant—greening a product that was primarily made of plastic, empowering women and girls, and supporting families with their full potential. The primary attribute of humanity is caring for one another, and ECO-BANA fulfilled its part admirably. 
 
