@@ -1,6 +1,6 @@
 ---
 title: "Business Schools Abroad"
-date: 2022-10-07T17:44:53+05:30
+date: 2022-10-08T17:44:53+05:30
 authors:
   - name: "Gourisankar Shaji"
     website: "https://www.linkedin.com/in/gourisankar-shaji"
