@@ -12,8 +12,8 @@ authors:
     image: "https://media-exp1.licdn.com/dms/image/C4D03AQHKrLUyr8O2IQ/profile-displayphoto-shrink_100_100/0/1654574045236?e=1667433600&v=beta&t=nfMvTHbLaJAppC1SPxBO5uyjJIEw-uYx1KuHXJnD2XE"
 
 Description: ""
-Tags: []
-Categories: []
+Tags: ["foss","fossunited","conference"]
+Categories: ["tech"]
 DisableComments: false
 ---
 

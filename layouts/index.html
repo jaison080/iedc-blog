@@ -53,8 +53,8 @@
   <a href="{{ .RelPermalink }}">
     <div class="post__content">
       <h3>{{ upper .Title }}</h3>
-      {{ if .Site.Params.fullPostContent }}
-      <p>{{ .Content | markdownify }}</p>
+      {{ if (.Description) }}
+      <p>{{ .Description | markdownify }}</p>
 
       {{ else }}
       <p>{{ .Summary | markdownify }}</p>

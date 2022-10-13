@@ -12,8 +12,8 @@ authors:
     image: "https://drive.google.com/uc?id=1PYeCtJlxhVJR22HLGAWJWNzsEcabb6tK"
 
 Description: "This blog is an insight into how IndiaFOSS 2.0 felt like, through the eyes of two first years."
-Tags: []
-Categories: []
+Tags: ["foss","fossunited","conference"]
+Categories: ["tech"]
 DisableComments: false
 ---
 India Foss 2.0 was held on the 23rd and 24th of July at NIMHANS, Bangalore and it was our first tech conference. Even though our seniors had assured us that they’d guide us and help us in networking with all the cool and important people out there, we were quite apprehensive. As first years with hardly any idea about what was about to happen and not even sure if we’ll understand half of the things that would be discussed there, we were pretty scared but equally excited. 
