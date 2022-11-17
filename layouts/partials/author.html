@@ -1,21 +1,21 @@
 <div class="post__author">
 
-    <h2>Written by</h2>
-    
-    {{ range .Params.authors }}
-    <div class="author__list">
-    <div class="author__image__div">
-    {{ if .image }}
-    <img class="author__image" src={{.image}}></img>
-    
-    {{ else }}
-    <img class="author__image" src="https://img.freepik.com/premium-vector/man-avatar-profile-picture-vector-illustration_268834-541.jpg"></img>
+  <h2>Written by</h2>
 
-        {{ end }}
+  {{ range .Params.authors }}
+  <div class="author__list">
+    <div class="author__image__div">
+      {{ if .image }}
+      <img class="author__image" src="/authorImages/{{.image}}"></img>
+
+      {{ else }}
+      <img class="author__image" src="/authorImages/defaultPlaceholder"></img>
+
+      {{ end }}
     </div>
-<div>
-    {{ if .name }}
-    <p class="author__name">
+    <div>
+      {{ if .name }}
+      <p class="author__name">
 
         {{ if .website }}
         <a target="_blank" href={{.website}}>{{ .name }}</a>
@@ -25,18 +25,18 @@
 
         {{ end }}
 
-    </p>
+      </p>
 
-    {{ if .about }}
-    <p class="author__about">{{ .about }}</p>
-    
-    {{ end }}
+      {{ if .about }}
+      <p class="author__about">{{ .about }}</p>
 
-    {{ end }}
+      {{ end }}
 
-    
-</div>
+      {{ end }}
 
-</div>
-{{ end }}
+
+    </div>
+
+  </div>
+  {{ end }}
 </div>
