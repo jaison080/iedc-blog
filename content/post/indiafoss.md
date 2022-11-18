@@ -5,14 +5,14 @@ authors:
   - name: "Adithya A"
     website: "https://www.linkedin.com/in/adithyaanilkumar/"
     about: "A DIY Homosapien who loves to create new products and get my hands dirty with Fullstack Web Development and IoT!"
-    image: "https://media-exp1.licdn.com/dms/image/C4D03AQE1kqqPL0AAWg/profile-displayphoto-shrink_100_100/0/1601035760269?e=1667433600&v=beta&t=KOmMTwUQ4C08yh6lSgCRGoUIdhnv6VWuNwdtLZVSl_4"
+    image: "adithya.jpg"
   - name: "Sreehari Sreekumar"
     website: "https://www.linkedin.com/in/sreehari-sreekumar-596597200/"
     about: "An energy filled 19 year old aspiring Marketer , who enjoys vlogging in his spare time"
     image: "https://media-exp1.licdn.com/dms/image/C4D03AQHKrLUyr8O2IQ/profile-displayphoto-shrink_100_100/0/1654574045236?e=1667433600&v=beta&t=nfMvTHbLaJAppC1SPxBO5uyjJIEw-uYx1KuHXJnD2XE"
 
 Description: "A joyride through IEDC MECs indiafoss experience as community partners in the form of a conversation between two friends✨"
-Tags: ["foss","fossunited","conference"]
+Tags: ["foss", "fossunited", "conference"]
 Categories: ["tech"]
 DisableComments: false
 ---
