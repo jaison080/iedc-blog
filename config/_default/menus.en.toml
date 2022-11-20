@@ -17,10 +17,10 @@ url = "/post/"
 # url = "/portfolio/"
 
 # [[main]]
-# name = "About"
+# name = "Author"
 # weight = 400
 # identifier = "about"
-# url = "/about/"
+# url = "/author/"
 
 # [[main]]
 # name = "Accomplishments"

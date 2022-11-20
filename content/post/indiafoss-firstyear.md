@@ -5,11 +5,11 @@ authors:
   - name: "Parvathi Vinod"
     website: "https://www.linkedin.com/in/parvathi-vinod-634896230/"
     about: "She is a first year student from EB who enjoys reading, writing, painting and singing during her free time. She also likes to have crazy but interesting conversations about life and things in general."
-    image: "https://media-exp1.licdn.com/dms/image/C4D03AQGafo2eXlM_Vg/profile-displayphoto-shrink_800_800/0/1657133315275?e=1668038400&v=beta&t=0Ajqvw7zVMrxjBx3GCkAVobiA5Cnhi0hsClnSBDRSMw"
+    image: "parvathi.jpeg"
   - name: "Mrinalini Nair Ani"
     website: "https://www.linkedin.com/in/mrinalini-nair-ani/"
     about: "Mrinalini Nair Ani is a first year CS undergraduate at MEC. An eclectic individual who just wishes there was an extra hour everyday so people could read & talk about Tech to their heart's content."
-    image: "https://drive.google.com/uc?id=1PYeCtJlxhVJR22HLGAWJWNzsEcabb6tK"
+    image: "mrinalini.png"
 
 Description: "This blog is an insight into how IndiaFOSS 2.0 felt like, through the eyes of two first years."
 Tags: ["foss","fossunited","conference"]

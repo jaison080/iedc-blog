@@ -5,7 +5,7 @@ authors:
   - name: "Shreya C H"
     website: "https://www.linkedin.com/in/shreya-c-h-96078822a"
     about: "2nd year ECE student with an interest in technology and design. My main hobby includes reading, writing poetry and book reviews, and journaling."
-    image: "shreya.jpg"
+    image: "shreya.jpeg"
 Description: ""
 Tags: ["Hult-Prize"]
 Categories: ["social impact"]
