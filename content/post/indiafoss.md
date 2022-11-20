@@ -9,7 +9,7 @@ authors:
   - name: "Sreehari Sreekumar"
     website: "https://www.linkedin.com/in/sreehari-sreekumar-596597200/"
     about: "An energy filled 19 year old aspiring Marketer , who enjoys vlogging in his spare time"
-    image: "https://media-exp1.licdn.com/dms/image/C4D03AQHKrLUyr8O2IQ/profile-displayphoto-shrink_100_100/0/1654574045236?e=1667433600&v=beta&t=nfMvTHbLaJAppC1SPxBO5uyjJIEw-uYx1KuHXJnD2XE"
+    image: "sreehari.jpeg"
 
 Description: "A joyride through IEDC MECs indiafoss experience as community partners in the form of a conversation between two friends✨"
 Tags: ["foss", "fossunited", "conference"]
