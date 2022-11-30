@@ -3,31 +3,28 @@
     min-height: 10rem;
 }
 
-.author__name a {
+.author__name {
     font-size: 2.4rem;
 }
 
 .author__about {
     font-size: 1.5rem;
-    margin-inline: 0.3rem;
-    margin-left: -0.2rem;
 }
-.author__image
-{
-    height: 80px ;
-    min-width: 80px ;
+
+.author__image {
+    padding: 1rem;
+    height: 80px;
+    width: auto;
+}
+
+.author__image img {
+    height: 80px;
+    min-width: 80px;
     border-radius: 50%;
     pointer-events: none;
 }
-.author__image__div
-{
-    padding-right: 15px;
-    padding-top: 8px;
-    height: 80px ;
-    width: auto ;
-}
-.author__list
-{
+
+.author__list {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;

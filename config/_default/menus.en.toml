@@ -10,6 +10,12 @@ weight = 200
 identifier = "posts"
 url = "/post/"
 
+[[main]]
+name = "Authors"
+weight = 300
+identifier = "authors"
+url = "/authors/"
+
 # [[main]]
 # name = "Portfolio"
 # weight = 300
@@ -17,10 +23,10 @@ url = "/post/"
 # url = "/portfolio/"
 
 # [[main]]
-# name = "Author"
+# name = "About"
 # weight = 400
 # identifier = "about"
-# url = "/author/"
+# url = "/about/"
 
 # [[main]]
 # name = "Accomplishments"

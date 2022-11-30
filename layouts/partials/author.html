@@ -1,42 +1,21 @@
 <div class="post__author">
 
-  <h2>Written by</h2>
+    <h2>Written by</h2>
 
-  {{ range .Params.authors }}
-  <div class="author__list">
-    <div class="author__image__div">
-      {{ if .image }}
-      <img class="author__image" src="/authorImages/{{.image}}"></img>
+    {{- range .Params.authors }}
+    {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
 
-      {{ else }}
-      <img class="author__image" src="/authorImages/defaultPlaceholder"></img>
-
-      {{ end }}
+    <div class="author__list">
+        <div class="author__image">
+            <img src="{{ .Params.photo }}" alt=""/>
+        </div>
+        <div>
+            <a class="author__name" href="{{ .Permalink }}">{{ .Params.name }}</a>
+            <div class="author__about">
+                {{ .Content }}
+            </div>
+        </div>
     </div>
-    <div>
-      {{ if .name }}
-      <p class="author__name">
-
-        {{ if .website }}
-        <a target="_blank" href={{.website}}>{{ .name }}</a>
-
-        {{ else }}
-        <a>{{ .name }}</a>
-
-        {{ end }}
-
-      </p>
-
-      {{ if .about }}
-      <p class="author__about">{{ .about }}</p>
-
-      {{ end }}
-
-      {{ end }}
-
-
-    </div>
-
-  </div>
-  {{ end }}
+    {{ end }}
+    {{ end }}
 </div>

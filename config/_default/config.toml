@@ -47,6 +47,7 @@ unsafe = true
 category = "categories"
 series = "series"
 tag = "tags"
+author = "authors"
 
 [related]
 includeNewer = true
