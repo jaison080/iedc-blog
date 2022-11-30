@@ -2,10 +2,7 @@
 title: "Business Schools Abroad"
 date: 2022-10-08T17:44:53+05:30
 authors:
-  - name: "Gourisankar Shaji"
-    website: "https://www.linkedin.com/in/gourisankar-shaji"
-    about: "He thrives as a media black hole consuming all kinds of internet content especially if it involves fantasy. He’s been told he’s intimidating but really is just open to get comfortable and talk about anything. He enjoys seeking pleasure in the mundane."
-    image: "gourisankar.jpeg"
+  - gourisankar-shaji
 Description: "A detailed overview of the session taken by Harinarayanan Shaji on 15th June. It gives a general summary of his experiences and findings while studying in and preparing for Business Schools Abroad."
 Tags: ["b-schools","higher-education","business"]
 Categories: ["education"]
