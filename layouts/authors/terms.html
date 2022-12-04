@@ -1,11 +1,16 @@
 {{ define "main" }}
 
-<h1>Authors</h1>
-<div>
+<div class="authors">
+    <h1>Authors</h1>
     {{ range .Data.Pages }}
-    <div>
-        <img src="{{ .Params.photo }}" alt=""/>
-        <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+    <div class="author">
+        <div class="author-image">
+            <img src="{{ .Params.photo }}" alt=""/>
+        </div>
+        <div class="author-details">
+            <a href="{{ .Permalink }}">{{ .Params.name }}</a>
+            {{ .Content }}
+        </div>
     </div>
     {{ end }}
 </div>

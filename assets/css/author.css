@@ -1,31 +1,119 @@
-.post__author {
+.post-author {
     padding: 1rem;
     min-height: 10rem;
 }
 
-.author__name {
+.post-author .author-list {
+    padding-inline: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+}
+
+.post-author .author-details {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.post-author .author-details .author-name {
     font-size: 2.4rem;
 }
 
-.author__about {
+.post-author .author-details .author-about {
     font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.author__image {
-    padding: 1rem;
-    height: 80px;
-    width: auto;
+.post-author .author-image {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-.author__image img {
-    height: 80px;
-    min-width: 80px;
+.post-author .author-image img {
+    min-width: 100px;
     border-radius: 50%;
     pointer-events: none;
 }
 
-.author__list {
+
+.about-author {
+    padding: 2rem;
+}
+
+.about-author .about-author-header {
     display: flex;
     flex-direction: row;
+    align-items: center;
     justify-content: flex-start;
+    gap: 2rem;
+}
+
+.about-author .about-author-header .author-name {
+    font-size: 3rem;
+}
+
+.about-author .about-author-header .author-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+}
+
+.about-author .about-author-articles h2 {
+    font-size: 2.5rem
+}
+
+.about-author .about-author-articles ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-author .about-author-articles ul li {
+    padding: 1rem 0;
+}
+
+.authors {
+    padding: 1rem;
+}
+
+.authors h1 {
+    font-size: 3rem;
+}
+
+.authors .author {
+    padding: 2rem 1rem;
+    max-height: 150px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+.authors .author-details a {
+    font-size: 2.5rem;
+}
+
+.authors .author .author-image {
+    height: 125px;
+    width: 125px;
+    flex-shrink: 0;
+}
+
+.authors .author .author-image img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.authors .author-details p {
+    text-overflow: ellipsis;
 }

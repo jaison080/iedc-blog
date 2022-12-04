@@ -1,21 +1,30 @@
 {{ define "main" }}
 
-<h1>{{ .Params.name }}</h1>
-<img src="{{ .Params.photo }}" alt=""/>
+<div class="about-author">
+    <div class="about-author-header">
+        <div>
+            <img class="author-image" src="{{ .Params.photo }}" alt=""/>
+        </div>
+        <div>
+            <h1 class="author-name">{{ .Params.name }}</h1>
 
-<h2>Bio</h2>
-{{ .Content }}
-<p>
-    <a href="{{ .Params.website}}">
-        Visit {{ $.Params.name }}
-    </a>
-</p>
+            {{ .Content }}
+            <p>
+                <a href="{{ .Params.website}}">
+                    LinkedIn
+                </a>
+            </p>
+        </div>
+    </div>
 
-<h2>Articles</h2>
-<ul>
-    {{ range .Data.Pages }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-    {{ end }}
-</ul>
+    <div class="about-author-articles">
+        <h2>Articles</h2>
+        <ul>
+            {{ range .Data.Pages }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+        </ul>
+    </div>
+</div>
 
 {{ end }}

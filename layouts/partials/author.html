@@ -1,17 +1,17 @@
-<div class="post__author">
+<div class="post-author">
 
     <h2>Written by</h2>
 
     {{- range .Params.authors }}
     {{- with $.Site.GetPage "taxonomyTerm" (printf "authors/%s" (urlize .)) }}
 
-    <div class="author__list">
-        <div class="author__image">
+    <div class="author-list">
+        <div class="author-image">
             <img src="{{ .Params.photo }}" alt=""/>
         </div>
-        <div>
-            <a class="author__name" href="{{ .Permalink }}">{{ .Params.name }}</a>
-            <div class="author__about">
+        <div class="author-details">
+            <a class="author-name" href="{{ .Permalink }}">{{ .Params.name }}</a>
+            <div class="author-about">
                 {{ .Content }}
             </div>
         </div>
