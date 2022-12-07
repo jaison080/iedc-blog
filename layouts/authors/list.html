@@ -21,7 +21,15 @@
         <h2>Articles</h2>
         <ul>
             {{ range .Data.Pages }}
-            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            <li>
+                <a href="{{ .Permalink }}" class="post-title">{{ .Title }}</a>
+                {{ if (.Description) }}
+                <p class="post-description">{{ .Description | markdownify }}</p>
+
+                {{ else }}
+                <p class="post-description">{{ .Summary | markdownify }}</p>
+                {{ end }}
+            </li>
             {{ end }}
         </ul>
     </div>

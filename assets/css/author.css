@@ -84,7 +84,12 @@
 }
 
 .about-author .about-author-articles ul li {
-    padding: 1rem 0;
+    padding: 2rem 0 1rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.about-author .about-author-articles ul li .post-title {
+    font-size: 2rem;
 }
 
 .authors {
@@ -104,6 +109,7 @@
     align-items: flex-start;
     justify-content: flex-start;
     gap: 1rem;
+    border-bottom: 1px solid #eee;
 }
 
 .authors .author-details a {
