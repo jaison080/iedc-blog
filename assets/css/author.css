@@ -45,7 +45,7 @@
 
 
 .about-author {
-    padding: 2rem;
+    padding: 2rem 3rem;
 }
 
 .about-author .about-author-header {
@@ -54,6 +54,7 @@
     align-items: center;
     justify-content: flex-start;
     gap: 2rem;
+    border-bottom: 1px solid #eee;
 }
 
 @media only screen and (max-width: 960px) {
