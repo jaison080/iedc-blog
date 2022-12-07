@@ -1,34 +1,146 @@
-.post__author {
+.post-author {
     padding: 1rem;
     min-height: 10rem;
 }
 
-.author__name a {
-    font-size: 2.4rem;
-}
-
-.author__about {
-    font-size: 1.5rem;
-    margin-inline: 0.3rem;
-    margin-left: -0.2rem;
-}
-.author__image
-{
-    height: 80px ;
-    min-width: 80px ;
-    border-radius: 50%;
-    pointer-events: none;
-}
-.author__image__div
-{
-    padding-right: 15px;
-    padding-top: 8px;
-    height: 80px ;
-    width: auto ;
-}
-.author__list
-{
+.post-author .author-list {
+    padding-inline: 1rem;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    align-items: center;
+    gap: 1rem;
+}
+
+.post-author .author-details {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.post-author .author-details .author-name {
+    font-size: 2.4rem;
+}
+
+.post-author .author-details .author-about {
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-author .author-image {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-author .author-image img {
+    min-width: 100px;
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+
+.about-author {
+    padding: 2rem 3rem;
+}
+
+.about-author .about-author-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 2rem;
+    border-bottom: 1px solid #eee;
+}
+
+.theme--dark .about-author .about-author-header {
+    border-bottom: 1px solid #464646;
+}
+
+@media only screen and (max-width: 960px) {
+    .about-author .about-author-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+}
+
+
+.about-author .about-author-header .author-name {
+    font-size: 3rem;
+}
+
+.about-author .about-author-header .author-image {
+    height: 150px;
+    width: 150px;
+    border-radius: 75px;
+}
+
+.about-author .about-author-articles h2 {
+    font-size: 2.5rem
+}
+
+.about-author .about-author-articles ul {
+    list-style: none;
+    padding: 0;
+}
+
+.about-author .about-author-articles ul li {
+    padding: 2rem 0 1rem 0;
+    border-bottom: 1px solid #eee;
+}
+
+.theme--dark .about-author .about-author-articles ul li {
+     border-bottom: 1px solid #464646;
+ }
+
+.about-author .about-author-articles ul li .post-title {
+    font-size: 2rem;
+}
+
+.authors {
+    padding: 1rem;
+}
+
+.authors h1 {
+    font-size: 3rem;
+}
+
+.authors .author {
+    padding: 2rem 1rem;
+    max-height: 150px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1rem;
+    border-bottom: 1px solid #eee;
+}
+
+.theme--dark .authors .author {
+    border-bottom: 1px solid #464646;
+}
+
+.authors .author-details a {
+    font-size: 2.5rem;
+}
+
+.authors .author .author-image {
+    height: 125px;
+    width: 125px;
+    flex-shrink: 0;
+}
+
+.authors .author .author-image img {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.authors .author-details p {
+    text-overflow: ellipsis;
 }

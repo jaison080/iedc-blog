@@ -2,14 +2,8 @@
 title: "An IndiaFOSS Story"
 date: 2022-08-13T15:23:44+05:30
 authors:
-  - name: "Adithya A"
-    website: "https://www.linkedin.com/in/adithyaanilkumar/"
-    about: "A DIY Homosapien who loves to create new products and get my hands dirty with Fullstack Web Development and IoT!"
-    image: "adithya.jpg"
-  - name: "Sreehari Sreekumar"
-    website: "https://www.linkedin.com/in/sreehari-sreekumar-596597200/"
-    about: "An energy filled 19 year old aspiring Marketer , who enjoys vlogging in his spare time"
-    image: "sreehari.jpeg"
+  - adithya-a
+  - sreehari-sreekumar
 
 Description: "A joyride through IEDC MECs indiafoss experience as community partners in the form of a conversation between two friends✨"
 Tags: ["foss", "fossunited", "conference"]

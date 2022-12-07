@@ -2,16 +2,12 @@
 title: "A Success Story from Kenya"
 date: 2022-10-14T06:21:55+05:30
 authors:
-  - name: "Shreya C H"
-    website: "https://www.linkedin.com/in/shreya-c-h-96078822a"
-    about: "2nd year ECE student with an interest in technology and design. My main hobby includes reading, writing poetry and book reviews, and journaling."
-    image: "shreya.jpeg"
+  - shreya-c-h 
 Description: ""
 Tags: ["Hult-Prize"]
 Categories: ["social impact"]
 DisableComments: false
 ---
-
 Ideas that can change the course of a society or solve leading issues that have been poorly handled or left to perish are only possible through human minds. And that is what the Hult Prize does - solving the planet's most pressing issues through social entrepreneurship. This year, the fortune of Kenyan women and society was anchored towards a new light by the project - ECOBANA
 
 ## About Hult Prize

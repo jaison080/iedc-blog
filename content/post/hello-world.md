@@ -6,10 +6,7 @@ Tags: ["tech-team", "behind-the-scenes", "project"]
 Categories: ["tech"]
 DisableComments: false
 authors:
-  - name: "Aldrin Jenson"
-    about: "CSB, MEC'23 | CTO of IEDC MEC"
-    website: "https://www.linkedin.com/in/aldrinjenson/"
-    image: "aldrin.jpg"
+  - aldrin-jenson
 ---
 
 Behind the scenes view into the making of IEDCMEC blog project, told by the CTO of IEDC-MEC. Maybe a bit long, but read on if you are interested about project management or the technical aspects of how the blog platform is made.

@@ -2,14 +2,8 @@
 title: "INDIA FOSS 2.0 : A first year perspective"
 date: 2022-09-07T15:47:38+05:30
 authors:
-  - name: "Parvathi Vinod"
-    website: "https://www.linkedin.com/in/parvathi-vinod-634896230/"
-    about: "She is a first year student from EB who enjoys reading, writing, painting and singing during her free time. She also likes to have crazy but interesting conversations about life and things in general."
-    image: "parvathi.jpeg"
-  - name: "Mrinalini Nair Ani"
-    website: "https://www.linkedin.com/in/mrinalini-nair-ani/"
-    about: "Mrinalini Nair Ani is a first year CS undergraduate at MEC. An eclectic individual who just wishes there was an extra hour everyday so people could read & talk about Tech to their heart's content."
-    image: "mrinalini.png"
+  - parvathi-vinod
+  - mrinalini-nair-ani
 
 Description: "This blog is an insight into how IndiaFOSS 2.0 felt like, through the eyes of two first years."
 Tags: ["foss","fossunited","conference"]
