@@ -57,6 +57,10 @@
     border-bottom: 1px solid #eee;
 }
 
+.theme--dark .about-author .about-author-header {
+    border-bottom: 1px solid #464646;
+}
+
 @media only screen and (max-width: 960px) {
     .about-author .about-author-header {
         flex-direction: column;
@@ -89,6 +93,10 @@
     border-bottom: 1px solid #eee;
 }
 
+.theme--dark .about-author .about-author-articles ul li {
+     border-bottom: 1px solid #464646;
+ }
+
 .about-author .about-author-articles ul li .post-title {
     font-size: 2rem;
 }
@@ -111,6 +119,10 @@
     justify-content: flex-start;
     gap: 1rem;
     border-bottom: 1px solid #eee;
+}
+
+.theme--dark .authors .author {
+    border-bottom: 1px solid #464646;
 }
 
 .authors .author-details a {
