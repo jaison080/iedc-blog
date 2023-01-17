@@ -8,6 +8,8 @@ Tags: ["startup","startupdeepdive","founder-requirements"]
 Categories: ["startup"]
 DisableComments: false
 ---
+
+
 A participant’s take away from the first session of Startup Deep Dive, taken by Mr. Haroon Shahul on the topic "Founder Requirements".
 
 <br>
