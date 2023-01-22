@@ -12,6 +12,12 @@
     gap: 1rem;
 }
 
+@media only screen and (max-width: 768px) {
+    .post-author .author-list {
+        flex-direction: column;
+    }
+}
+
 .post-author .author-details {
     display: flex;
     flex-direction: column;
@@ -35,12 +41,23 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    z-index: 0;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .post-author .author-image {
+        height: 150px;
+        width: 150px;
+    }
 }
 
 .post-author .author-image img {
     min-width: 100px;
     border-radius: 50%;
     pointer-events: none;
+    height: 100%;
+    width: 100%;
 }
 
 
@@ -117,7 +134,7 @@
     flex-direction: row;
     align-items: flex-start;
     justify-content: flex-start;
-    gap: 1rem;
+    gap: 2rem;
     border-bottom: 1px solid #eee;
 }
 
