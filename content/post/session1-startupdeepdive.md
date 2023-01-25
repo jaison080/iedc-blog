@@ -1,5 +1,5 @@
 ---
-title: "ETS SESSION 1 : Mr. Haroon Shahul"
+title: "Start-up Deep Dive : Founder Requirements and Product Ideation"
 date: 2023-01-17T06:21:55+05:30
 authors:
   - nikesh-t-v
@@ -12,10 +12,8 @@ DisableComments: false
 **STARTUP DEEP DIVE** is an Entrepreneurship Training Series conducted by IEDC MEC which aims at providing individuals with the aptitude to identify business opportunities, self-esteem, knowledge, and skills to act on them. Entrepreneurs or the move towards self-employment is and will continue to become, an increasingly important element of economic growth and development.
 
 <br>
-<img src="/images/ets-session1/image1.jpg" width="550" height="auto">
-<br>
-
-## Session 1 STARTUP DEEP DIVE   
+<img src="/images/session1-startupdeepdive/image1.jpg" width="550" height="auto">
+<br> 
 
 The speaker of the session, Mr. Haroon Shahul talked about his experiences in MEC as well as the origin story of Solwearth Ecotech Pvt. Ltd. He primarily focused on infusing technology and our social responsibility to bring about sustainable development products and practices. He shared his career experiences as a CEO, COO, GCO, and Board member in the telecom and IT industries in Asia, the Middle East, and North Africa and stories of the companies he developed from scratch into sizable businesses in Asia, Middle East, and Northern African markets. Explained the whole ideation process of Solwearth from scratch. The idea came from a friend's reunion on the discussion on Social responsibility as an engineer. The development of a product from an idea to a fully finished version, and finding the right people to build the product, this process gives us an idea about what things need to be considered when looking for a co-founder. When starting a new business, it can be helpful to have a co-founder or team to work with.
 
@@ -26,9 +24,9 @@ However, it's important to choose a co-founder who can bring value to your start
 ### Gallery
 
 <br>
-<img src="/images/ets-session1/image5.jpg" width="550" height="auto">
+<img src="/images/session1-startupdeepdive/image5.jpg" width="550" height="auto">
 <br>
 
 <br>
-<img src="/images/ets-session1/image3.jpg" width="550" height="auto">
+<img src="/images/session1-startupdeepdive/image3.jpg" width="550" height="auto">
 <br>
