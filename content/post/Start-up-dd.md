@@ -18,7 +18,7 @@ Mr. Sandeep S and Ms. Ashwathy Venugopal are X-MECians and co-founders of Avasar
 So what is MVP? A Minimum Viable Product is a low-budget version of a product with just enough features to be used by early customers. The feedback obtained from the MVP can then be used to guide the development of the final product.
 
 
-_The MVP of a wedding cake would be a cupcake!_
+"The MVP of a wedding cake would be a cupcake!"
 
 
 This was the first myth that was busted in the session. While an MVP is a small-scale version made with the least amount of money, it should also retain the functionalities of the final product you envision. For a wedding cake, the MVP might be a simple sponge cake without all the fancy decorations, or it could be a diagram showing the design and features that the final cake will have. However, it cannot be a cupcake which is an entirely different product.
