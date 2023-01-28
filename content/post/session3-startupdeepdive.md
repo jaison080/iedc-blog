@@ -15,8 +15,8 @@ draft: true
 <img src="/images/session3-startupdeepdive/img1.png" width="550" height="auto">
 <br>
 
->**"Start-ups don't fail because they lack a product, but they fail because they lack customers and a profitable business model"** <br>
-> <p style="text-align: right"> ~ Steve Blank ( American Entrepreneur ) </p>
+>**"Start-ups don't fail because they lack a product, but they fail because they lack customers and a profitable business model"**<br>
+>~ Steve Blank ( American Entrepreneur ) 
 
 The 3rd session of the "Startup Deep Dive" series conducted by IEDC MEC featuring Felix Josemon, founder of Kerala Product Hunt & Final App. He is one of six people who has had a face-to-face meeting with the CEO of YouTube. His entrepreneurial innovations focused mainly on start-ups from the state of Kerala.
 Elaborating on revenue models of various companies, he made the session more exciting. Using examples of start-ups from Kerala, the speaker conveyed that building a sustainable product is crucial. One of the products he highlighted was Aviyal, created by an ex-MECian. He also described the revenue model of several companies. One of the prime verticals of the session was the growth of start-ups through product-led marketing. The chain-line revenue model he used in Lighthouse, which resulted in massive success, also made the session entertaining.
