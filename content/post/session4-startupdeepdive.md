@@ -8,8 +8,14 @@ Tags: ["ets","startup","startupdeepdive","go to market strategy"]
 Categories: ["startup"]
 DisableComments: false
 ---
+
+**STARTUP DEEP DIVE** is an Entrepreneurship Training Series conducted by IEDC MEC which aims at providing individuals with the aptitude to identify business opportunities, self-esteem, knowledge, and skills to act on them. Entrepreneurs or the move towards self-employment is and will continue to become, an increasingly important element of economic growth and development.
+
 <br>
-The 4th session of the **Start-up Deep Dive** series on Product Market Fit and GTM strategy was organized by IEDC MEC on 12 December at SDPK Hall, Model Engineering College. 
+<img src="/images/session4-startupdeepdive/image1.jpg" width="550" height="auto">
+<br>
+
+The 4th session of the Start-up Deep Dive series on Product Market Fit and GTM strategy was organized by IEDC MEC on 12 December at SDPK Hall, Model Engineering College. 
 
 
 **Mr. Thompson Tom** was in charge of the session. We could not have asked for a better speaker for this particular topic. Thompson Tom is the Founder and CEO of TutAR- Next Reality Classroom, which enables teachers to use digital teaching aids using augmented reality. It is the very first On-Screen AR app in the world. Thompson, a talented entrepreneur, got his first client (a school) to sign his product just 20 days after his MVP release. Today, TutAR is widespread in various parts of India and well-developed markets such as the US, Europe, and the Middle East.
@@ -36,10 +42,6 @@ In conclusion, the session was a valuable resource for aspiring entrepreneurs. B
 <br>
 
 ### Gallery
-
-<br>
-<img src="/images/session4-startupdeepdive/image1.jpg" width="550" height="auto">
-<br>
 
 <br>
 <img src="/images/session4-startupdeepdive/image2.jpg" width="550" height="auto">
