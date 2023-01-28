@@ -3,7 +3,7 @@ title: "Start-up Deep Dive : Product Market Fit and Go to Market Strategy "
 date: 2023-01-28T06:21:55+05:30
 authors:
   - a-theertha
-Description: 'An overview of the fourth session of Startup Deep Dive on “Product Market Fit and GTM strategy” from the perspective of a participant.'
+Description: 'An overview of the fourth session of Startup Deep Dive on “Product Market Fit and GTM Strategy” from the perspective of a participant.'
 Tags: ["ets","startup","startupdeepdive","go to market strategy"]
 Categories: ["startup"]
 DisableComments: false
