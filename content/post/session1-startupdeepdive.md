@@ -1,6 +1,6 @@
 ---
 title: "Start-up Deep Dive : Founder Requirements and Product Ideation"
-date: 2023-01-17T06:21:55+05:30
+date: 2024-01-17T06:21:55+05:30
 authors:
   - nikesh-t-v
 Description: 'A participant’s take away from the first session of Startup Deep Dive, taken by Mr. Haroon Shahul on the topic "Founder Requirements".'
