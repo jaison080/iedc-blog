@@ -4,7 +4,7 @@ date: 2023-01-25T00:55:13+05:30
 Description: "A highlight of the third session of Startup Deep Dive taken by Felix Josemon on the topic “Revenue Model”."
 authors:
   - jesa-dileep-philip
-Tags: [ "startup","startupdeepdive","revenue-models"]
+Tags: [ "startup","startupdeepdive","revenue-models","ets"]
 Categories: ["startup"]
 DisableComments: false
 draft: true
