@@ -9,6 +9,7 @@ Categories: ["Startup"]
 DisableComments: false
 ---
 
+STARTUP DEEP DIVE is an Entrepreneurship Training Series conducted by IEDC MEC which aims at providing individuals with the aptitude to identify business opportunities, self-esteem, knowledge, and skills to act on them. Entrepreneurs or the move towards self-employment is and will continue to become, an increasingly important element of economic growth and development.
 A key ingredient to getting started on your entrepreneurial journey is finding the self-belief that it is possible for you to build an entire company from scratch. And what can be a more significant source of inspiration than hearing from alumni of your colleagues who have successfully achieved the same?
 
 
