@@ -1,13 +1,12 @@
 ---
 title: "Start-Up Deep Dive : Revenue Model and Building Sustainable Products from Kerala"
-date: 2024-01-25T00:55:13+05:30
+date: 2023-01-25T00:55:13+05:30
 Description: "A highlight of the third session of Startup Deep Dive taken by Felix Josemon on the topic “Revenue Model”."
 authors:
   - jesa-dileep-philip
 Tags: [ "startup","startupdeepdive","revenue-models","ets"]
 Categories: ["startup"]
 DisableComments: false
-draft: true
 ---
 **STARTUP DEEP DIVE** is an Entrepreneurship Training Series conducted by IEDC MEC which aims at providing individuals with the aptitude to identify business opportunities, self-esteem, knowledge, and skills to act on them. Entrepreneurs or the move towards self-employment is and will continue to become, an increasingly important element of economic growth and development.
 
