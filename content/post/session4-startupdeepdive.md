@@ -24,11 +24,17 @@ He started the session by introducing us to a few business terms and we learned 
 
 One key takeaway from the session was the importance of speaking to clients and pitching your product to the right target audience. By having open and honest communication with potential customers and getting your MVP into the hands of users, you can gather valuable insights into their needs and requirements, and understand what works and what doesn't. This information can be effectively utilized to fine-tune and iterate your product and ensure that it has got a strong market fit. 
 
+<br>
+<img src="/images/session4-startupdeepdive/image2.jpg" width="550" height="auto">
+<br>
+
 He also emphasized the importance of finding the right individuals who are passionate about your product and have the skills and experience necessary to help your company succeed. In his words, it's important not to get too caught up with planning. It is easy to get bogged down in discussions and debates about the perfect solutions, but the reality is that you won't know what works until you try it. And that's where the MVP comes in. It allows you to test your assumptions and gather real-world feedback that you can use to guide your product development. Thompson also reminded us that too often, teams can get stuck in the planning phase and spend too much time talking about their ideas rather than executing them. 
 
 Another important lesson from the session was the importance of understanding the different business models and how they can impact your product market fit. He discussed various business models like B2B, B2C, B2B2B, and B2B2C with suitable and familiar examples of successful companies that have used these models to explain each while keeping the session interactive. He also amplified the importance of choosing the right business model for your products while underscoring the fact that it’s okay to stick to more than one business model. By understanding the needs and preferences of your target market, you can determine which model is the best fit for your product.
 
 Thompson emphasized that entrepreneurship does not have a book of rules or a set of guidelines that you have to follow. Instead, it's all about making decisions that are best for your business and your goals. Thompson shared his own experiences of navigating entrepreneurship and emphasized the challenges and opportunities that come with starting a business at a young age. He provided practical tips on how to overcome common obstacles and encouraged attendees to be resilient and adaptable in the face of challenges. Ultimately, the message was crystal clear: there is no one-size-fits-all approach to entrepreneurship. You have to be willing to take risks and make decisions that are best for your business, even if they don't align with traditional expectations or norms. By embracing this mindset and being open to new ideas and opportunities, you can create your path to success.
+
+## Key Takeaways
 
 Overall, the key takeaways were : 
 
@@ -41,8 +47,3 @@ In conclusion, the session was a valuable resource for aspiring entrepreneurs. B
 
 <br>
 
-### Gallery
-
-<br>
-<img src="/images/session4-startupdeepdive/image2.jpg" width="550" height="auto">
-<br>
