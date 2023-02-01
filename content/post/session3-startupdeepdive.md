@@ -7,7 +7,6 @@ authors:
 Tags: [ "startup","startupdeepdive","revenue-models","ets"]
 Categories: ["startup"]
 DisableComments: false
-draft: true
 ---
 **STARTUP DEEP DIVE** is an Entrepreneurship Training Series conducted by IEDC MEC which aims at providing individuals with the aptitude to identify business opportunities, self-esteem, knowledge, and skills to act on them. Entrepreneurs or the move towards self-employment is and will continue to become, an increasingly important element of economic growth and development.
 
