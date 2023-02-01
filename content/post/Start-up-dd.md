@@ -25,7 +25,7 @@ So what is MVP? A Minimum Viable Product is a low-budget version of a product wi
 This was the first myth that was busted in the session. While an MVP is a small-scale version made with the least amount of money, it should also retain the functionalities of the final product you envision. For a wedding cake, the MVP might be a simple sponge cake without all the fancy decorations, or it could be a diagram showing the design and features that the final cake will have. However, it cannot be a cupcake which is an entirely different product.
 
 
-Avasarshala started as a WhatsApp group, which served as its MVP. Identifying the target audience is crucial at this stage. The next step is to charge a small fee for the product. By analyzing the percentage of clients who are willing to pay for it, we get a rough estimate of the demand for the final product. This is also essential in measuring the product's sustainability in the market.
+[Avasarshala](https://www.avasarshala.com/) started as a WhatsApp group, which served as its MVP. Identifying the target audience is crucial at this stage. The next step is to charge a small fee for the product. By analyzing the percentage of clients who are willing to pay for it, we get a rough estimate of the demand for the final product. This is also essential in measuring the product's sustainability in the market.
 
 
 The session then introduced the Business Canvas Model, a tool that helps you visualize the development of your startup idea in a structured manner. A run-through of each process involved in the Business Canvas Model aided in understanding the multitude of aspects that should be considered while building a sustainable business model.
