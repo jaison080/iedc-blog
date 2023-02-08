@@ -25,9 +25,9 @@
         </div>
 
       {{ end }}
-      <div class="sidebar__introduction-description">
-        <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
-      </div>
+      <!-- <div class="sidebar__introduction-description"> -->
+      <!--   <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p> -->
+      <!-- </div> -->
     </div>
     <ul class="sidebar__list">
       {{ range $item := .Site.Params.socialIcons }}

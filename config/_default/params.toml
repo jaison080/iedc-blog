@@ -35,6 +35,12 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 # hidesidebar = true
 
+[meta]
+title = "IEDCMEC Blog"
+description = "Official Blog of IEDCMEC"
+metaURL = "https://iedc-blog-mu.vercel.app"
+metaImgURL = "https://iedc-blog-mu.vercel.app/images/site-feature-image.webp"
+
 [simpleAnalytics]
 # enable = true
 # customurl = "https://analytics.example.com"

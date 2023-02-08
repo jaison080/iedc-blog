@@ -1,43 +1,62 @@
 <head>
-  <title>
-    {{ if (eq .Site.Params.reversepagetitle true) }}
-      {{ with .Title }}
-        {{ . }} |
+  <!-- <title> -->
+  <!--   {{ if (eq .Site.Params.reversepagetitle true) }} -->
+  <!--     {{ with .Title }} -->
+  <!--       {{ . }} | -->
+  <!---->
+  <!--     {{ end }} -->
+  <!--     {{- .Site.Params.author -}} -->
+  <!---->
+  <!---->
+  <!--   {{ else }} -->
+  <!--     {{- .Site.Params.author -}}{{ with .Title }} -->
+  <!--       | -->
+  <!--       {{ . }} -->
+  <!---->
+  <!---->
+  <!--     {{ end }} -->
+  <!---->
+  <!---->
+  <!--   {{ end }} -->
+  <!---->
+  <!-- </title> -->
+  <!---->
 
-      {{ end }}
-      {{- .Site.Params.author -}}
-
-
-    {{ else }}
-      {{- .Site.Params.author -}}{{ with .Title }}
-        |
-        {{ . }}
-
-
-      {{ end }}
-
-
-    {{ end }}
-
-  </title>
-
+  <title>{{- .Site.Params.meta.title -}}</title>
   <!-- Meta -->
   <meta charset="utf-8" />
   {{- hugo.Generator -}}
-  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="title" content="{{- .Site.Params.meta.title -}}">
   <meta
-    name="description"
-    content="{{ if .Params.description }}
-      {{- .Params.description -}}
+  name="description"
+  content="{{ if .Params.description }}
+  {{- .Params.description -}}
 
 
-    {{ else }}
-      {{- .Site.Params.description -}}
+  {{ else }}
+  {{- .Site.Params.meta.description -}}
 
 
-    {{ end }}"
+  {{ end }}"
   />
+
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{- .Site.Params.meta.metaURL -}}">
+  <meta property="og:title" content="{{- .Site.Params.meta.title -}}">
+  <meta property="og:description" content="{{- .Site.Params.meta.description -}}">
+  <meta property="og:image" content="{{- .Site.Params.meta.metaImgURL -}}">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="{{- .Site.Params.meta.metaURL -}}">
+  <meta property="twitter:title" content="{{- .Site.Params.meta.title -}}">
+  <meta property="twitter:description" content="{{- .Site.Params.meta.description -}}">
+  <meta property="twitter:image" content="{{- .Site.Params.meta.metaImgURL -}}">
+
+
   {{ if .Params.redirectUrl }}
     <meta http-equiv="refresh" content="1; url={{ .Params.redirectUrl }}" />
 
@@ -55,7 +74,6 @@
     <link
       rel="stylesheet"
       href="{{ $style.RelPermalink }}"
-      integrity="{{ $style.Data.Integrity }}"
       crossorigin="anonymous"
       type="text/css"
     />
@@ -66,7 +84,6 @@
     <link
       rel="stylesheet"
       href="{{ $style.RelPermalink }}"
-      integrity="{{ $style.Data.Integrity }}"
       crossorigin="anonymous"
       type="text/css"
     />
@@ -77,7 +94,6 @@
   <link
     rel="stylesheet"
     href="{{ $markupHighlightStyle.RelPermalink }}"
-    integrity="{{ $markupHighlightStyle.Data.Integrity }}"
     crossorigin="anonymous"
     type="text/css"
   />
@@ -87,7 +103,6 @@
     <link
       rel="stylesheet"
       href="{{ $styles.RelPermalink }}"
-      integrity="{{ $styles.Data.Integrity }}"
       crossorigin="anonymous"
       media="screen"
     />
@@ -97,7 +112,6 @@
   <link
     rel="stylesheet"
     href="{{ $style.RelPermalink }}"
-    integrity="{{ $style.Data.Integrity }}"
     crossorigin="anonymous"
     type="text/css"
   />
@@ -105,7 +119,6 @@
   <link
     rel="stylesheet"
     href="{{ $style.RelPermalink }}"
-    integrity="{{ $style.Data.Integrity }}"
     crossorigin="anonymous"
     type="text/css"
   />
@@ -113,7 +126,6 @@
   <link
     rel="stylesheet"
     href="{{ $style.RelPermalink }}"
-    integrity="{{ $style.Data.Integrity }}"
     crossorigin="anonymous"
     type="text/css"
   />
@@ -121,7 +133,6 @@
   <link
     rel="stylesheet"
     href="{{ $style.RelPermalink }}"
-    integrity="{{ $style.Data.Integrity }}"
     crossorigin="anonymous"
     type="text/css"
   />
@@ -130,7 +141,6 @@
     <link
       rel="stylesheet"
       href="{{ $style.RelPermalink }}"
-      integrity="{{ $style.Data.Integrity }}"
       crossorigin="anonymous"
       type="text/css"
     />
@@ -169,7 +179,6 @@
   <script
     type="text/javascript"
     src="{{ $secureHeaderJS.RelPermalink }}"
-    integrity="{{ $secureHeaderJS.Data.Integrity }}"
     crossorigin="anonymous"
   ></script>
 
@@ -179,7 +188,6 @@
     <script
       type="text/javascript"
       src="{{ $secureThemeSwitcherJS.RelPermalink }}"
-      integrity="{{ $secureThemeSwitcherJS.Data.Integrity }}"
       crossorigin="anonymous"
     ></script>
 
@@ -217,7 +225,6 @@
     <script
       type="text/javascript"
       src="{{ $secureJS.RelPermalink }}"
-      integrity="{{ $secureJS.Data.Integrity }}"
       crossorigin="anonymous"
     ></script>
 
@@ -236,12 +243,10 @@
   {{ end }}
 
 
-  <!-- Twitter Cards -->
-  {{ template "_internal/twitter_cards.html" . }}
-
-
-  <!-- Open Graph -->
-  {{ template "_internal/opengraph.html" . }}
+  <!-- {{ template "_internal/twitter_cards.html" . }} -->
+  <!---->
+  <!---->
+  <!-- {{ template "_internal/opengraph.html" . }} -->
 
 
   <!-- Schema.org-->
