@@ -38,8 +38,8 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 [meta]
 title = "IEDCMEC Blog"
 description = "Official Blog of IEDCMEC"
-metaURL = "https://iedc-blog-mu.vercel.app"
-metaImgURL = "https://iedc-blog-mu.vercel.app/images/site-feature-image.webp"
+metaURL = "https://blog.iedcmec.in/"
+metaImgURL = "https://blog.iedcmec.in/images/site-feature-image.webp"
 
 [simpleAnalytics]
 # enable = true
