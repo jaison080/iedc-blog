@@ -46,14 +46,30 @@
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{- .Site.Params.meta.metaURL -}}">
   <meta property="og:title" content="{{- .Site.Params.meta.title -}}">
-  <meta property="og:description" content="{{- .Site.Params.meta.description -}}">
+  <meta property="og:description" content="{{ if .Params.description }}
+  {{- .Params.description -}}
+
+
+  {{ else }}
+  {{- .Site.Params.meta.description -}}
+
+
+  {{ end }}">
   <meta property="og:image" content="{{- .Site.Params.meta.metaImgURL -}}">
 
   <!-- Twitter -->
   <meta property="twitter:card" content="summary_large_image">
   <meta property="twitter:url" content="{{- .Site.Params.meta.metaURL -}}">
   <meta property="twitter:title" content="{{- .Site.Params.meta.title -}}">
-  <meta property="twitter:description" content="{{- .Site.Params.meta.description -}}">
+  <meta property="twitter:description" content="{{ if .Params.description }}
+  {{- .Params.description -}}
+
+
+  {{ else }}
+  {{- .Site.Params.meta.description -}}
+
+
+  {{ end }}">
   <meta property="twitter:image" content="{{- .Site.Params.meta.metaImgURL -}}">
 
 
