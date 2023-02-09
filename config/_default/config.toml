@@ -3,7 +3,7 @@ canonifyURLs = true
 
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "IEDC Blog"
+# title = "IEDC Blog"
 theme = "anatole"
 mainSections = ["post"]
 

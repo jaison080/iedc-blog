@@ -35,6 +35,12 @@ reversepagetitle = true # When set to 'true', the Window Title will be reversed 
 
 # hidesidebar = true
 
+[meta]
+title = "IEDCMEC Blog"
+description = "Official Blog of IEDCMEC"
+metaURL = "https://blog.iedcmec.in/"
+metaImgURL = "https://blog.iedcmec.in/images/site-feature-image.webp"
+
 [simpleAnalytics]
 # enable = true
 # customurl = "https://analytics.example.com"
