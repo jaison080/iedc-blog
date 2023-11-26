@@ -1,0 +1,21 @@
+---
+title: "TO HELP SOLVE GLOBAL PROBLEMS, LOOK TO DEVELOPING COUNTRIES"
+date: 2023-11-26T00:55:13+05:30
+Description: "An insightful blog exploring the transformative potential of ideas from developing countries & wisdom shared in a TED Talk by the renowned Ghanaian social innovator, Bright Simons."
+authors:
+  - surabhi-thiruvoth
+Tags: ["tedtalk", "developingcountries","ideas","brightsimons","innovation"]
+Categories: ["social impact"]
+DisableComments: false
+---
+For a lot of people, the two words, Developing Countries, bring up an image of a primitive culture, that is very behind the pristine and advanced societies of the developed countries. This creates a perception in our minds, which is made worse by the media and other representations of cultures, that one is superior to the other in the sense that only developed countries can help the developing ones and never the other way around. This is a thought that Bright Simons aims to change. He calls himself an ideas activist because what he wants to fight for are the ideas, for them to have the same support and respect, that the ideas made from developed countries have. This might seem obvious to us, but that is not the case, as he demonstrates with his various examples. 
+
+Counterfeits exist for most products we can think of, but something we would not expect them to be made for is medicines, especially life-saving ones related to heart disease, which is the cause of 82 percent of deaths in Egypt. It is a very real and scary problem in the country. But thankfully, Bright Simons and his team brought forth the innovative idea to give an identification number on every single bottle of medicine, which the patient can immediately key to a toll-free code that would tell him if it is a counterfeit or not. This very simple idea might seem small on the outside, but it saves the lives of millions and is implemented on such a large scale, that it makes it truly remarkable. 
+
+Another example he puts forth is the sale of bad quality or fake seeds, which make up 40 percent of all seeds sold in Kenya and many other African countries. This is bad not only for the people's health, but also for the lives of the farmers. Farmers, who are the lifeline of every country and who must be treated with such respect, but instead they are put under the bus just so someone can make a bit of profit. Again, Bright Simons and his team come to the rescue by digitizing most seeds of the country and providing each with its own certification about its quality, a humongous task if you really think about it. Each seed is given its own code on its cover that is able to provide its certification. This has helped millions of farmers secure a livelihood and ensures the safe upbringing of our next generation. 
+
+In Ghana, vaccination is a huge issue. Something that has to be injected into a person's bloodstream must be given a lot of care and treated with utmost professionalism. The most crucial thing about vaccines is the temperature. If not maintained in the right range, it will lose its potency. A very innovative solution to this was making a cover that, when scanned will display the temperature of the vaccine, assuring its safety. 
+
+These are ideas which are actually extremely useful but do not get the recognition they deserve. We might think these ideas are needed for developing countries only, but if you look a bit deeper, you will see that these same problems plague our so-called developed countries. These problems can be solved using the methods that have already been adopted in the developing countries. If we can just look past our biases and internal prejudices, we can treat each new idea with respect, regardless of where it comes from.
+
+Our minds and ideas are our biggest strength and we must realize that we are more similar than different. We can always take inspiration from other countries and societies and recognise the good they do and in turn implement it in our very own lives, regardless of whether they are from developing, developed or underdeveloped countries.

@@ -5,7 +5,7 @@ authors:
     - nikita-ann-mathen
 Description: "A detailed summary of the fifth session of Startup Deep Dive on “MVP building” taken by our alumni."
 Tags: ["startup","startupdeepdive","MVP", "User Generation"]
-Categories: ["Startup"]
+Categories: ["startup"]
 DisableComments: false
 ---
 
