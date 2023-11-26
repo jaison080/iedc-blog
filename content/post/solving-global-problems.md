@@ -1,5 +1,5 @@
 ---
-title: "TO HELP SOLVE GLOBAL PROBLEMS, LOOK TO DEVELOPING COUNTRIES"
+title: "To Help Solve Global Problems, Look To Developing Countries"
 date: 2023-11-26T00:55:13+05:30
 Description: "An insightful blog exploring the transformative potential of ideas from developing countries & wisdom shared in a TED Talk by the renowned Ghanaian social innovator, Bright Simons."
 authors:
